@@ -19,7 +19,8 @@ import org.w3c.dom.Element;
 @SuppressWarnings({ "unused", "rawtypes" })
 public class Parser {
 
-	private static final int VALUE = 4;
+	private static final double INCREASE = 1.1;
+	private static final double DECREASE = 0.9;
 
 	public static void main(String[] args) {
 		String path = args[0];
@@ -49,11 +50,22 @@ public class Parser {
 					distance.add(Mathematics.distance2points(landmarks.get(index), landmarks.get(index + 1)));
 				}
 				double average = Mathematics.arrayAverage(distance);
-				Pair tuple = Mathematics.minimumValues(landmarks);
+				Pair min = Mathematics.minimumValues(landmarks);
+				Pair max = Mathematics.maximumValues(landmarks);
 
-				int boxSize = (int) average * VALUE;
-				int left = (int) ((double) tuple.getA()) - VALUE;
-				int top = (int) ((double) tuple.getB()) - VALUE;
+				int left = (int) ((double) min.getA() * DECREASE);
+				int top = (int) ((double) min.getB() * DECREASE);
+				int right = (int) ((double) max.getA() * INCREASE);
+				int bottom = (int) ((double) max.getB() * INCREASE);
+				int height = bottom - top;
+				int width = right - left;
+				
+				if(left < 1) {
+					left = 1;
+				}
+				if(top < 1) {
+					top = 1;
+				}
 
 				// image
 				Element image = doc.createElement("image");
@@ -78,11 +90,11 @@ public class Parser {
 				box.setAttributeNode(boxleftAttr);
 				
 				Attr boxheightAttr = doc.createAttribute("height");
-				boxheightAttr.setValue(Integer.toString(boxSize));
+				boxheightAttr.setValue(Integer.toString(height));
 				box.setAttributeNode(boxheightAttr);
 				
 				Attr boxwidthAttr = doc.createAttribute("width");
-				boxwidthAttr.setValue(Integer.toString(boxSize));
+				boxwidthAttr.setValue(Integer.toString(width));
 				box.setAttributeNode(boxwidthAttr);
 
 				for (int index = 0; index < landmarks.size(); index++) {

@@ -42,4 +42,21 @@ public abstract class Mathematics {
 
 		return new Pair(minA, minB);
 	}
+	
+	public static Pair maximumValues(ArrayList<Pair> array) {
+		double maxA = Double.MIN_VALUE;
+		double maxB = Double.MIN_VALUE;
+
+		for (Pair tuple : array) {
+			if ((double) tuple.getA() > maxA) {
+				maxA = (double) tuple.getA();
+			}
+
+			if ((double) tuple.getB() > maxB) {
+				maxB = (double) tuple.getB();
+			}
+		}
+
+		return new Pair(maxA, maxB);
+	}
 }
