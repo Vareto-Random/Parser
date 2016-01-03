@@ -5,30 +5,29 @@ import java.util.Scanner;
 
 public class Dirlist {
 	public Dirlist() {
-		this.stringSet = new ArrayList<>();
+		this.stringArray = new ArrayList<>();
 	}
 
 	public final ArrayList<String> readDirlist(String fileName) {
-		if (stringSet == null) {
-			stringSet = new ArrayList<>();
+		if (this.stringArray == null) {
+			this.stringArray = new ArrayList<>();
 		}
-		
+
 		try {
 			File infile = new File(fileName);
 			Scanner reader = new Scanner(infile);
 
 			while (reader.hasNextLine()) {
 				String name = reader.nextLine();
-				stringSet.add(name);
-				System.out.println(name);
+				this.stringArray.add(name);
 			}
 			reader.close();
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-		
-		return stringSet;
+
+		return this.stringArray;
 	}
 
-	private ArrayList<String> stringSet;
+	private ArrayList<String> stringArray;
 }
