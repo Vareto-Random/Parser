@@ -19,8 +19,8 @@ import org.w3c.dom.Element;
 @SuppressWarnings({ "unused", "rawtypes" })
 public class Parser {
 
-	private static final double INCREASE = 1.1;
-	private static final double DECREASE = 0.9;
+	private static final double INCREASE = 1.05;
+	private static final double DECREASE = 0.95;
 
 	public static void main(String[] args) {
 		String path = args[0];
