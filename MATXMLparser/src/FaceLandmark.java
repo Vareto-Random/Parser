@@ -4,25 +4,25 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 @SuppressWarnings({ "unused", "rawtypes" })
-public class FaceLandmarks {
-	public FaceLandmarks() {
+public class FaceLandmark {
+	public FaceLandmark() {
 		this.name = null;
 		this.points = new ArrayList<>();
 	}
-	
-	public FaceLandmarks(String _name) {
+
+	public FaceLandmark(String _name) {
 		this.name = _name;
 		this.points = new ArrayList<>();
 	}
-	
-	public FaceLandmarks(String _name, ArrayList<Pair> _points) {
+
+	public FaceLandmark(String _name, ArrayList<Pair> _points) {
 		this.name = _name;
 		this.points = new ArrayList<>();
-		for(Pair point : _points) {
+		for (Pair point : _points) {
 			this.points.add(point);
 		}
 	}
-	
+
 	public final String getName() {
 		return name;
 	}
@@ -36,9 +36,13 @@ public class FaceLandmarks {
 	}
 
 	public final void setPoints(ArrayList<Pair> _points) {
-		for(Pair point : _points) {
+		for (Pair point : _points) {
 			this.points.add(point);
 		}
+	}
+
+	public final void addPoints(Pair _point) {
+		this.points.add(_point);
 	}
 
 	public final String toString() {

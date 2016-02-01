@@ -1,6 +1,6 @@
 
-public class Annotation {
-	public Annotation() {
+public class FaceBox {
+	public FaceBox() {
 		this.name = null;
 		this.a = null;
 		this.b = null;
@@ -8,7 +8,7 @@ public class Annotation {
 		this.d = null;
 	}
 
-	public Annotation(String _name, String _a, String _b, String _c, String _d) {
+	public FaceBox(String _name, String _a, String _b, String _c, String _d) {
 		this.setName(_name);
 		this.setA(_a);
 		this.setB(_b);
