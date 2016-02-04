@@ -89,13 +89,13 @@ public class Parser {
 				boxleftAttr.setValue(Integer.toString(left));
 				box.setAttributeNode(boxleftAttr);
 				
-				Attr boxheightAttr = doc.createAttribute("height");
-				boxheightAttr.setValue(Integer.toString(height));
-				box.setAttributeNode(boxheightAttr);
-				
 				Attr boxwidthAttr = doc.createAttribute("width");
 				boxwidthAttr.setValue(Integer.toString(width));
 				box.setAttributeNode(boxwidthAttr);
+				
+				Attr boxheightAttr = doc.createAttribute("height");
+				boxheightAttr.setValue(Integer.toString(height));
+				box.setAttributeNode(boxheightAttr);
 
 				for (int index = 0; index < landmarks.size(); index++) {
 					// part
