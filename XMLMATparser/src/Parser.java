@@ -1,23 +1,26 @@
 import java.io.File;
+import java.io.PrintWriter;
+
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 public class Parser {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		if (args.length == 1) {
-			String path = "/Users/Vareto/Documents/Datasets/RPV/FacialLandmarks/dlib/";
+			String path = "/Users/Vareto/Documents/Datasets/RPV/FaceLandmarks/dlib+icbrw/";
 			String fileName = args[0];
 
 			try {
 				File file = new File(fileName);
 				DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
 				Document doc = builder.parse(file);
+				PrintWriter writer = new PrintWriter("output.txt", "UTF-8");
 
 				String imageFile;
 
@@ -34,7 +37,7 @@ public class Parser {
 							Node boxNode = boxList.item(boxIndex);
 
 							if (boxNode.getNodeType() == Node.ELEMENT_NODE) {
-								System.out.println(path + imageFile);
+								writer.println(path + imageFile);
 								Element boxElement = (Element) boxNode;
 
 								NodeList partList = boxElement.getChildNodes();
@@ -44,15 +47,12 @@ public class Parser {
 									if (partNode.getNodeType() == Node.ELEMENT_NODE) {
 										Element partElement = (Element) partNode;
 
-										System.out.println(
+										writer.println(
 												partElement.getAttribute("x") + " " + partElement.getAttribute("y"));
 									}
-
 								}
 							}
-
 						}
-
 					}
 				}
 

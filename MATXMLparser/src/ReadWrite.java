@@ -110,19 +110,19 @@ public class ReadWrite {
 				image.appendChild(box);
 				
 				// set attribute to box element
-				Attr boxtopAttr = doc.createAttribute("top");
+				Attr boxtopAttr = doc.createAttribute("left");
 				boxtopAttr.setValue(temporaryBox.getA());
 				box.setAttributeNode(boxtopAttr);
 				
-				Attr boxleftAttr = doc.createAttribute("left");
+				Attr boxleftAttr = doc.createAttribute("top");
 				boxleftAttr.setValue(temporaryBox.getB());
 				box.setAttributeNode(boxleftAttr);
 
-				Attr boxheightAttr = doc.createAttribute("height");
+				Attr boxheightAttr = doc.createAttribute("width");
 				boxheightAttr.setValue(temporaryBox.getC());
 				box.setAttributeNode(boxheightAttr);
 
-				Attr boxwidthAttr = doc.createAttribute("width");
+				Attr boxwidthAttr = doc.createAttribute("height");
 				boxwidthAttr.setValue(temporaryBox.getD());
 				box.setAttributeNode(boxwidthAttr);
 				

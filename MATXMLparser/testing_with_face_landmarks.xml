@@ -2,7 +2,7 @@
 <dataset>
   <images>
     <image file="001_01.jpg">
-      <box height="464" left="560" top="835" width="477">
+      <box height="477" left="835" top="560" width="464">
         <part name="0" x="825" y="634"/>
         <part name="1" x="826" y="700"/>
         <part name="2" x="833" y="767"/>
@@ -74,7 +74,7 @@
       </box>
     </image>
     <image file="001_02.jpg">
-      <box height="312" left="691" top="1072" width="295">
+      <box height="295" left="1072" top="691" width="312">
         <part name="0" x="1082" y="772"/>
         <part name="1" x="1086" y="810"/>
         <part name="2" x="1094" y="849"/>
@@ -146,7 +146,7 @@
       </box>
     </image>
     <image file="001_03.jpg">
-      <box height="338" left="413" top="1194" width="317">
+      <box height="317" left="1194" top="413" width="338">
         <part name="0" x="1234" y="477"/>
         <part name="1" x="1217" y="505"/>
         <part name="2" x="1204" y="538"/>
@@ -218,7 +218,7 @@
       </box>
     </image>
     <image file="001_04.jpg">
-      <box height="485" left="522" top="1104" width="461">
+      <box height="461" left="1104" top="522" width="485">
         <part name="0" x="1123" y="635"/>
         <part name="1" x="1123" y="698"/>
         <part name="2" x="1128" y="762"/>
@@ -290,7 +290,7 @@
       </box>
     </image>
     <image file="001_05.jpg">
-      <box height="349" left="304" top="580" width="368">
+      <box height="368" left="580" top="304" width="349">
         <part name="0" x="607" y="372"/>
         <part name="1" x="612" y="419"/>
         <part name="2" x="623" y="463"/>
@@ -362,7 +362,7 @@
       </box>
     </image>
     <image file="002_01.jpg">
-      <box height="387" left="628" top="1239" width="441">
+      <box height="441" left="1239" top="628" width="387">
         <part name="0" x="1274" y="707"/>
         <part name="1" x="1273" y="764"/>
         <part name="2" x="1278" y="822"/>
@@ -434,7 +434,7 @@
       </box>
     </image>
     <image file="002_02.jpg">
-      <box height="380" left="570" top="1154" width="351">
+      <box height="351" left="1154" top="570" width="380">
         <part name="0" x="1189" y="624"/>
         <part name="1" x="1194" y="674"/>
         <part name="2" x="1204" y="724"/>
@@ -506,7 +506,7 @@
       </box>
     </image>
     <image file="002_03.jpg">
-      <box height="380" left="666" top="977" width="366">
+      <box height="366" left="977" top="666" width="380">
         <part name="0" x="1008" y="706"/>
         <part name="1" x="1005" y="756"/>
         <part name="2" x="1007" y="808"/>
@@ -578,7 +578,7 @@
       </box>
     </image>
     <image file="002_04.jpg">
-      <box height="352" left="473" top="265" width="336">
+      <box height="336" left="265" top="473" width="352">
         <part name="0" x="286" y="555"/>
         <part name="1" x="294" y="600"/>
         <part name="2" x="307" y="642"/>
@@ -650,7 +650,7 @@
       </box>
     </image>
     <image file="002_05.jpg">
-      <box height="474" left="238" top="906" width="529">
+      <box height="529" left="906" top="238" width="474">
         <part name="0" x="959" y="392"/>
         <part name="1" x="966" y="458"/>
         <part name="2" x="981" y="522"/>
@@ -722,7 +722,7 @@
       </box>
     </image>
     <image file="003_01.jpg">
-      <box height="437" left="498" top="595" width="461">
+      <box height="461" left="595" top="498" width="437">
         <part name="0" x="600" y="592"/>
         <part name="1" x="600" y="654"/>
         <part name="2" x="605" y="717"/>
@@ -794,7 +794,7 @@
       </box>
     </image>
     <image file="003_02.jpg">
-      <box height="349" left="433" top="709" width="368">
+      <box height="368" left="709" top="433" width="349">
         <part name="0" x="740" y="511"/>
         <part name="1" x="737" y="560"/>
         <part name="2" x="739" y="612"/>
@@ -866,7 +866,7 @@
       </box>
     </image>
     <image file="003_03.jpg">
-      <box height="232" left="566" top="629" width="201">
+      <box height="201" left="629" top="566" width="232">
         <part name="0" x="644" y="613"/>
         <part name="1" x="646" y="639"/>
         <part name="2" x="649" y="664"/>
@@ -938,7 +938,7 @@
       </box>
     </image>
     <image file="003_04.jpg">
-      <box height="317" left="538" top="1210" width="332">
+      <box height="332" left="1210" top="538" width="317">
         <part name="0" x="1217" y="622"/>
         <part name="1" x="1220" y="663"/>
         <part name="2" x="1227" y="703"/>
@@ -1010,7 +1010,7 @@
       </box>
     </image>
     <image file="003_05.jpg">
-      <box height="218" left="717" top="1496" width="220">
+      <box height="220" left="1496" top="717" width="218">
         <part name="0" x="1520" y="739"/>
         <part name="1" x="1516" y="765"/>
         <part name="2" x="1515" y="792"/>
@@ -1082,7 +1082,7 @@
       </box>
     </image>
     <image file="004_01.jpg">
-      <box height="409" left="567" top="425" width="375">
+      <box height="375" left="425" top="567" width="409">
         <part name="0" x="464" y="623"/>
         <part name="1" x="462" y="664"/>
         <part name="2" x="465" y="706"/>
@@ -1154,7 +1154,7 @@
       </box>
     </image>
     <image file="004_02.jpg">
-      <box height="310" left="635" top="1164" width="278">
+      <box height="278" left="1164" top="635" width="310">
         <part name="0" x="1173" y="662"/>
         <part name="1" x="1173" y="705"/>
         <part name="2" x="1175" y="749"/>
@@ -1226,7 +1226,7 @@
       </box>
     </image>
     <image file="004_03.jpg">
-      <box height="257" left="616" top="1082" width="230">
+      <box height="230" left="1082" top="616" width="257">
         <part name="0" x="1074" y="656"/>
         <part name="1" x="1076" y="693"/>
         <part name="2" x="1082" y="732"/>
@@ -1298,7 +1298,7 @@
       </box>
     </image>
     <image file="004_04.jpg">
-      <box height="368" left="433" top="1278" width="331">
+      <box height="331" left="1278" top="433" width="368">
         <part name="0" x="1285" y="496"/>
         <part name="1" x="1292" y="544"/>
         <part name="2" x="1302" y="592"/>
@@ -1370,7 +1370,7 @@
       </box>
     </image>
     <image file="004_05.jpg">
-      <box height="352" left="409" top="1017" width="320">
+      <box height="320" left="1017" top="409" width="352">
         <part name="0" x="1031" y="438"/>
         <part name="1" x="1030" y="487"/>
         <part name="2" x="1032" y="536"/>
@@ -1442,7 +1442,7 @@
       </box>
     </image>
     <image file="005_01.jpg">
-      <box height="279" left="674" top="1050" width="182">
+      <box height="182" left="1050" top="674" width="279">
         <part name="0" x="1070" y="681"/>
         <part name="1" x="1069" y="712"/>
         <part name="2" x="1071" y="743"/>
@@ -1514,7 +1514,7 @@
       </box>
     </image>
     <image file="005_02.jpg">
-      <box height="293" left="579" top="1331" width="265">
+      <box height="265" left="1331" top="579" width="293">
         <part name="0" x="1345" y="631"/>
         <part name="1" x="1348" y="667"/>
         <part name="2" x="1352" y="702"/>
@@ -1586,7 +1586,7 @@
       </box>
     </image>
     <image file="005_03.jpg">
-      <box height="349" left="488" top="1039" width="312">
+      <box height="312" left="1039" top="488" width="349">
         <part name="0" x="1054" y="553"/>
         <part name="1" x="1058" y="597"/>
         <part name="2" x="1063" y="640"/>
@@ -1658,7 +1658,7 @@
       </box>
     </image>
     <image file="005_04.jpg">
-      <box height="547" left="378" top="1142" width="455">
+      <box height="455" left="1142" top="378" width="547">
         <part name="0" x="1159" y="515"/>
         <part name="1" x="1166" y="578"/>
         <part name="2" x="1177" y="639"/>
@@ -1730,7 +1730,7 @@
       </box>
     </image>
     <image file="005_05.jpg">
-      <box height="279" left="579" top="1122" width="251">
+      <box height="251" left="1122" top="579" width="279">
         <part name="0" x="1131" y="627"/>
         <part name="1" x="1133" y="662"/>
         <part name="2" x="1138" y="697"/>
@@ -1802,7 +1802,7 @@
       </box>
     </image>
     <image file="006_01.jpg">
-      <box height="383" left="620" top="890" width="320">
+      <box height="320" left="890" top="620" width="383">
         <part name="0" x="924" y="651"/>
         <part name="1" x="925" y="699"/>
         <part name="2" x="932" y="747"/>
@@ -1874,7 +1874,7 @@
       </box>
     </image>
     <image file="006_02.jpg">
-      <box height="443" left="392" top="962" width="486">
+      <box height="486" left="962" top="392" width="443">
         <part name="0" x="979" y="459"/>
         <part name="1" x="976" y="528"/>
         <part name="2" x="977" y="600"/>
@@ -1946,7 +1946,7 @@
       </box>
     </image>
     <image file="006_03.jpg">
-      <box height="306" left="342" top="328" width="279">
+      <box height="279" left="328" top="342" width="306">
         <part name="0" x="335" y="379"/>
         <part name="1" x="338" y="419"/>
         <part name="2" x="343" y="458"/>
@@ -2018,7 +2018,7 @@
       </box>
     </image>
     <image file="006_04.jpg">
-      <box height="464" left="413" top="1194" width="464">
+      <box height="464" left="1194" top="413" width="464">
         <part name="0" x="1218" y="464"/>
         <part name="1" x="1208" y="528"/>
         <part name="2" x="1203" y="592"/>
@@ -2090,7 +2090,7 @@
       </box>
     </image>
     <image file="006_05.jpg">
-      <box height="409" left="381" top="1002" width="416">
+      <box height="416" left="1002" top="381" width="409">
         <part name="0" x="1033" y="512"/>
         <part name="1" x="1040" y="568"/>
         <part name="2" x="1052" y="624"/>
@@ -2162,7 +2162,7 @@
       </box>
     </image>
     <image file="007_01.jpg">
-      <box height="422" left="582" top="919" width="380">
+      <box height="380" left="919" top="582" width="422">
         <part name="0" x="940" y="655"/>
         <part name="1" x="947" y="717"/>
         <part name="2" x="960" y="778"/>
@@ -2234,7 +2234,7 @@
       </box>
     </image>
     <image file="007_02.jpg">
-      <box height="279" left="398" top="328" width="251">
+      <box height="251" left="328" top="398" width="279">
         <part name="0" x="351" y="434"/>
         <part name="1" x="350" y="471"/>
         <part name="2" x="353" y="509"/>
@@ -2306,7 +2306,7 @@
       </box>
     </image>
     <image file="007_03.jpg">
-      <box height="461" left="450" top="838" width="461">
+      <box height="461" left="838" top="450" width="461">
         <part name="0" x="842" y="555"/>
         <part name="1" x="850" y="618"/>
         <part name="2" x="862" y="680"/>
@@ -2378,7 +2378,7 @@
       </box>
     </image>
     <image file="007_04.jpg">
-      <box height="368" left="359" top="1242" width="386">
+      <box height="386" left="1242" top="359" width="368">
         <part name="0" x="1217" y="466"/>
         <part name="1" x="1230" y="518"/>
         <part name="2" x="1245" y="569"/>
@@ -2450,7 +2450,7 @@
       </box>
     </image>
     <image file="007_05.jpg">
-      <box height="306" left="384" top="1136" width="279">
+      <box height="279" left="1136" top="384" width="306">
         <part name="0" x="1157" y="437"/>
         <part name="1" x="1158" y="471"/>
         <part name="2" x="1165" y="505"/>
@@ -2522,7 +2522,7 @@
       </box>
     </image>
     <image file="008_01.jpg">
-      <box height="304" left="409" top="985" width="304">
+      <box height="304" left="985" top="409" width="304">
         <part name="0" x="1003" y="511"/>
         <part name="1" x="1006" y="550"/>
         <part name="2" x="1013" y="590"/>
@@ -2594,7 +2594,7 @@
       </box>
     </image>
     <image file="008_02.jpg">
-      <box height="293" left="468" top="899" width="279">
+      <box height="279" left="899" top="468" width="293">
         <part name="0" x="894" y="567"/>
         <part name="1" x="900" y="603"/>
         <part name="2" x="910" y="638"/>
@@ -2666,7 +2666,7 @@
       </box>
     </image>
     <image file="008_03.jpg">
-      <box height="352" left="505" top="809" width="320">
+      <box height="320" left="809" top="505" width="352">
         <part name="0" x="810" y="597"/>
         <part name="1" x="817" y="642"/>
         <part name="2" x="828" y="685"/>
@@ -2738,7 +2738,7 @@
       </box>
     </image>
     <image file="008_04.jpg">
-      <box height="331" left="470" top="580" width="349">
+      <box height="349" left="580" top="470" width="331">
         <part name="0" x="578" y="566"/>
         <part name="1" x="584" y="610"/>
         <part name="2" x="593" y="653"/>
@@ -2810,7 +2810,7 @@
       </box>
     </image>
     <image file="008_05.jpg">
-      <box height="255" left="395" top="577" width="255">
+      <box height="255" left="577" top="395" width="255">
         <part name="0" x="565" y="478"/>
         <part name="1" x="565" y="508"/>
         <part name="2" x="569" y="538"/>
@@ -2882,7 +2882,7 @@
       </box>
     </image>
     <image file="009_01.jpg">
-      <box height="267" left="528" top="977" width="267">
+      <box height="267" left="977" top="528" width="267">
         <part name="0" x="1001" y="576"/>
         <part name="1" x="1001" y="610"/>
         <part name="2" x="1003" y="644"/>
@@ -2954,7 +2954,7 @@
       </box>
     </image>
     <image file="009_02.jpg">
-      <box height="320" left="621" top="551" width="279">
+      <box height="279" left="551" top="621" width="320">
         <part name="0" x="587" y="658"/>
         <part name="1" x="586" y="695"/>
         <part name="2" x="587" y="731"/>
@@ -3026,7 +3026,7 @@
       </box>
     </image>
     <image file="009_03.jpg">
-      <box height="422" left="455" top="983" width="422">
+      <box height="422" left="983" top="455" width="422">
         <part name="0" x="1019" y="510"/>
         <part name="1" x="1015" y="562"/>
         <part name="2" x="1015" y="615"/>
@@ -3098,7 +3098,7 @@
       </box>
     </image>
     <image file="009_04.jpg">
-      <box height="306" left="482" top="899" width="306">
+      <box height="306" left="899" top="482" width="306">
         <part name="0" x="929" y="529"/>
         <part name="1" x="929" y="569"/>
         <part name="2" x="930" y="608"/>
@@ -3170,7 +3170,7 @@
       </box>
     </image>
     <image file="009_05.jpg">
-      <box height="193" left="474" top="447" width="184">
+      <box height="184" left="447" top="474" width="193">
         <part name="0" x="455" y="520"/>
         <part name="1" x="456" y="542"/>
         <part name="2" x="457" y="563"/>
@@ -3242,7 +3242,7 @@
       </box>
     </image>
     <image file="010_01.jpg">
-      <box height="288" left="617" top="1305" width="272">
+      <box height="272" left="1305" top="617" width="288">
         <part name="0" x="1317" y="671"/>
         <part name="1" x="1321" y="707"/>
         <part name="2" x="1327" y="743"/>
@@ -3314,7 +3314,7 @@
       </box>
     </image>
     <image file="010_02.jpg">
-      <box height="349" left="415" top="1058" width="331">
+      <box height="331" left="1058" top="415" width="349">
         <part name="0" x="1076" y="461"/>
         <part name="1" x="1079" y="508"/>
         <part name="2" x="1086" y="556"/>
@@ -3386,7 +3386,7 @@
       </box>
     </image>
     <image file="010_03.jpg">
-      <box height="251" left="635" top="704" width="265">
+      <box height="265" left="704" top="635" width="251">
         <part name="0" x="703" y="695"/>
         <part name="1" x="707" y="728"/>
         <part name="2" x="714" y="761"/>
@@ -3458,7 +3458,7 @@
       </box>
     </image>
     <image file="010_04.jpg">
-      <box height="211" left="777" top="1463" width="190">
+      <box height="190" left="1463" top="777" width="211">
         <part name="0" x="1472" y="822"/>
         <part name="1" x="1474" y="849"/>
         <part name="2" x="1479" y="876"/>
@@ -3530,7 +3530,7 @@
       </box>
     </image>
     <image file="010_05.jpg">
-      <box height="230" left="516" top="916" width="243">
+      <box height="243" left="916" top="516" width="230">
         <part name="0" x="903" y="572"/>
         <part name="1" x="909" y="603"/>
         <part name="2" x="918" y="633"/>
@@ -3602,7 +3602,7 @@
       </box>
     </image>
     <image file="011_01.jpg">
-      <box height="336" left="441" top="1225" width="320">
+      <box height="320" left="1225" top="441" width="336">
         <part name="0" x="1250" y="499"/>
         <part name="1" x="1253" y="545"/>
         <part name="2" x="1258" y="590"/>
@@ -3674,7 +3674,7 @@
       </box>
     </image>
     <image file="011_02.jpg">
-      <box height="397" left="434" top="624" width="387">
+      <box height="387" left="624" top="434" width="397">
         <part name="0" x="631" y="479"/>
         <part name="1" x="629" y="536"/>
         <part name="2" x="631" y="595"/>
@@ -3746,7 +3746,7 @@
       </box>
     </image>
     <image file="011_03.jpg">
-      <box height="222" left="798" top="1305" width="201">
+      <box height="201" left="1305" top="798" width="222">
         <part name="0" x="1334" y="821"/>
         <part name="1" x="1331" y="849"/>
         <part name="2" x="1330" y="877"/>
@@ -3818,7 +3818,7 @@
       </box>
     </image>
     <image file="011_04.jpg">
-      <box height="485" left="353" top="1274" width="461">
+      <box height="461" left="1274" top="353" width="485">
         <part name="0" x="1296" y="478"/>
         <part name="1" x="1303" y="539"/>
         <part name="2" x="1316" y="598"/>
@@ -3890,7 +3890,7 @@
       </box>
     </image>
     <image file="011_05.jpg">
-      <box height="265" left="300" top="1275" width="293">
+      <box height="293" left="1275" top="300" width="265">
         <part name="0" x="1306" y="332"/>
         <part name="1" x="1301" y="367"/>
         <part name="2" x="1298" y="403"/>
@@ -3962,7 +3962,7 @@
       </box>
     </image>
     <image file="012_01.jpg">
-      <box height="230" left="625" top="1159" width="255">
+      <box height="255" left="1159" top="625" width="230">
         <part name="0" x="1148" y="686"/>
         <part name="1" x="1154" y="716"/>
         <part name="2" x="1163" y="746"/>
@@ -4034,7 +4034,7 @@
       </box>
     </image>
     <image file="012_02.jpg">
-      <box height="250" left="350" top="1300" width="300">
+      <box height="300" left="1300" top="350" width="250">
         <part name="0" x="1311" y="419"/>
         <part name="1" x="1307" y="457"/>
         <part name="2" x="1308" y="495"/>
@@ -4106,7 +4106,7 @@
       </box>
     </image>
     <image file="012_03.jpg">
-      <box height="485" left="401" top="983" width="534">
+      <box height="534" left="983" top="401" width="485">
         <part name="0" x="1057" y="514"/>
         <part name="1" x="1065" y="580"/>
         <part name="2" x="1077" y="646"/>
@@ -4178,7 +4178,7 @@
       </box>
     </image>
     <image file="012_04.jpg">
-      <box height="331" left="617" top="800" width="312">
+      <box height="312" left="800" top="617" width="331">
         <part name="0" x="812" y="704"/>
         <part name="1" x="821" y="754"/>
         <part name="2" x="833" y="803"/>
@@ -4250,7 +4250,7 @@
       </box>
     </image>
     <image file="012_05.jpg">
-      <box height="232" left="444" top="1333" width="213">
+      <box height="213" left="1333" top="444" width="232">
         <part name="0" x="1367" y="496"/>
         <part name="1" x="1365" y="526"/>
         <part name="2" x="1366" y="558"/>
@@ -4322,7 +4322,7 @@
       </box>
     </image>
     <image file="013_01.jpg">
-      <box height="193" left="520" top="952" width="211">
+      <box height="211" left="952" top="520" width="193">
         <part name="0" x="958" y="560"/>
         <part name="1" x="960" y="586"/>
         <part name="2" x="966" y="612"/>
@@ -4394,7 +4394,7 @@
       </box>
     </image>
     <image file="013_02.jpg">
-      <box height="272" left="681" top="841" width="304">
+      <box height="304" left="841" top="681" width="272">
         <part name="0" x="859" y="762"/>
         <part name="1" x="867" y="797"/>
         <part name="2" x="876" y="832"/>
@@ -4466,7 +4466,7 @@
       </box>
     </image>
     <image file="013_03.jpg">
-      <box height="404" left="488" top="929" width="404">
+      <box height="404" left="929" top="488" width="404">
         <part name="0" x="950" y="523"/>
         <part name="1" x="942" y="576"/>
         <part name="2" x="940" y="631"/>
@@ -4538,7 +4538,7 @@
       </box>
     </image>
     <image file="013_04.jpg">
-      <box height="336" left="585" top="1257" width="304">
+      <box height="304" left="1257" top="585" width="336">
         <part name="0" x="1275" y="647"/>
         <part name="1" x="1276" y="690"/>
         <part name="2" x="1282" y="733"/>
@@ -4610,7 +4610,7 @@
       </box>
     </image>
     <image file="013_05.jpg">
-      <box height="336" left="553" top="889" width="304">
+      <box height="304" left="889" top="553" width="336">
         <part name="0" x="910" y="617"/>
         <part name="1" x="912" y="655"/>
         <part name="2" x="918" y="694"/>
@@ -4682,7 +4682,7 @@
       </box>
     </image>
     <image file="014_01.jpg">
-      <box height="401" left="624" top="666" width="401">
+      <box height="401" left="666" top="624" width="401">
         <part name="0" x="659" y="725"/>
         <part name="1" x="660" y="779"/>
         <part name="2" x="666" y="834"/>
@@ -4754,7 +4754,7 @@
       </box>
     </image>
     <image file="014_02.jpg">
-      <box height="401" left="497" top="940" width="401">
+      <box height="401" left="940" top="497" width="401">
         <part name="0" x="964" y="573"/>
         <part name="1" x="967" y="635"/>
         <part name="2" x="976" y="699"/>
@@ -4826,7 +4826,7 @@
       </box>
     </image>
     <image file="014_03.jpg">
-      <box height="331" left="470" top="562" width="386">
+      <box height="386" left="562" top="470" width="331">
         <part name="0" x="577" y="571"/>
         <part name="1" x="583" y="623"/>
         <part name="2" x="593" y="675"/>
@@ -4898,7 +4898,7 @@
       </box>
     </image>
     <image file="014_04.jpg">
-      <box height="461" left="498" top="1274" width="485">
+      <box height="485" left="1274" top="498" width="461">
         <part name="0" x="1255" y="564"/>
         <part name="1" x="1260" y="627"/>
         <part name="2" x="1270" y="691"/>
@@ -4970,7 +4970,7 @@
       </box>
     </image>
     <image file="014_05.jpg">
-      <box height="251" left="328" top="1094" width="279">
+      <box height="279" left="1094" top="328" width="251">
         <part name="0" x="1103" y="403"/>
         <part name="1" x="1108" y="438"/>
         <part name="2" x="1116" y="473"/>
@@ -5042,7 +5042,7 @@
       </box>
     </image>
     <image file="015_01.jpg">
-      <box height="419" left="623" top="970" width="433">
+      <box height="433" left="970" top="623" width="419">
         <part name="0" x="982" y="660"/>
         <part name="1" x="981" y="724"/>
         <part name="2" x="987" y="789"/>
@@ -5114,7 +5114,7 @@
       </box>
     </image>
     <image file="015_02.jpg">
-      <box height="211" left="787" top="1189" width="201">
+      <box height="201" left="1189" top="787" width="211">
         <part name="0" x="1205" y="817"/>
         <part name="1" x="1208" y="844"/>
         <part name="2" x="1214" y="871"/>
@@ -5186,7 +5186,7 @@
       </box>
     </image>
     <image file="015_03.jpg">
-      <box height="373" left="548" top="946" width="368">
+      <box height="368" left="946" top="548" width="373">
         <part name="0" x="965" y="583"/>
         <part name="1" x="965" y="635"/>
         <part name="2" x="969" y="687"/>
@@ -5258,7 +5258,7 @@
       </box>
     </image>
     <image file="015_04.jpg">
-      <box height="368" left="543" top="837" width="386">
+      <box height="386" left="837" top="543" width="368">
         <part name="0" x="856" y="609"/>
         <part name="1" x="858" y="663"/>
         <part name="2" x="866" y="718"/>
@@ -5330,7 +5330,7 @@
       </box>
     </image>
     <image file="015_05.jpg">
-      <box height="384" left="585" top="841" width="304">
+      <box height="304" left="841" top="585" width="384">
         <part name="0" x="858" y="613"/>
         <part name="1" x="864" y="666"/>
         <part name="2" x="875" y="718"/>
@@ -5402,7 +5402,7 @@
       </box>
     </image>
     <image file="016_01.jpg">
-      <box height="293" left="565" top="1011" width="251">
+      <box height="251" left="1011" top="565" width="293">
         <part name="0" x="1036" y="638"/>
         <part name="1" x="1039" y="671"/>
         <part name="2" x="1043" y="703"/>
@@ -5474,7 +5474,7 @@
       </box>
     </image>
     <image file="016_02.jpg">
-      <box height="352" left="617" top="825" width="320">
+      <box height="320" left="825" top="617" width="352">
         <part name="0" x="841" y="707"/>
         <part name="1" x="849" y="751"/>
         <part name="2" x="861" y="792"/>
@@ -5546,7 +5546,7 @@
       </box>
     </image>
     <image file="016_03.jpg">
-      <box height="474" left="433" top="1213" width="582">
+      <box height="582" left="1213" top="433" width="474">
         <part name="0" x="1259" y="603"/>
         <part name="1" x="1262" y="669"/>
         <part name="2" x="1270" y="736"/>
@@ -5618,7 +5618,7 @@
       </box>
     </image>
     <image file="016_04.jpg">
-      <box height="352" left="521" top="649" width="288">
+      <box height="288" left="649" top="521" width="352">
         <part name="0" x="659" y="590"/>
         <part name="1" x="666" y="633"/>
         <part name="2" x="677" y="675"/>
@@ -5690,7 +5690,7 @@
       </box>
     </image>
     <image file="016_05.jpg">
-      <box height="443" left="392" top="518" width="359">
+      <box height="359" left="518" top="392" width="443">
         <part name="0" x="555" y="474"/>
         <part name="1" x="561" y="524"/>
         <part name="2" x="570" y="574"/>
@@ -5762,7 +5762,7 @@
       </box>
     </image>
     <image file="017_01.jpg">
-      <box height="485" left="425" top="522" width="485">
+      <box height="485" left="522" top="425" width="485">
         <part name="0" x="554" y="509"/>
         <part name="1" x="554" y="569"/>
         <part name="2" x="563" y="629"/>
@@ -5834,7 +5834,7 @@
       </box>
     </image>
     <image file="017_02.jpg">
-      <box height="211" left="756" top="1157" width="190">
+      <box height="190" left="1157" top="756" width="211">
         <part name="0" x="1171" y="778"/>
         <part name="1" x="1168" y="808"/>
         <part name="2" x="1168" y="839"/>
@@ -5906,7 +5906,7 @@
       </box>
     </image>
     <image file="017_03.jpg">
-      <box height="245" left="751" top="648" width="215">
+      <box height="215" left="648" top="751" width="245">
         <part name="0" x="653" y="773"/>
         <part name="1" x="653" y="807"/>
         <part name="2" x="656" y="841"/>
@@ -5978,7 +5978,7 @@
       </box>
     </image>
     <image file="017_04.jpg">
-      <box height="279" left="454" top="621" width="279">
+      <box height="279" left="621" top="454" width="279">
         <part name="0" x="618" y="536"/>
         <part name="1" x="627" y="574"/>
         <part name="2" x="639" y="611"/>
@@ -6050,7 +6050,7 @@
       </box>
     </image>
     <image file="017_05.jpg">
-      <box height="346" left="519" top="1069" width="312">
+      <box height="312" left="1069" top="519" width="346">
         <part name="0" x="1108" y="591"/>
         <part name="1" x="1109" y="641"/>
         <part name="2" x="1114" y="692"/>
@@ -6122,7 +6122,7 @@
       </box>
     </image>
     <image file="018_01.jpg">
-      <box height="222" left="798" top="798" width="190">
+      <box height="190" left="798" top="798" width="222">
         <part name="0" x="820" y="845"/>
         <part name="1" x="824" y="871"/>
         <part name="2" x="833" y="897"/>
@@ -6194,7 +6194,7 @@
       </box>
     </image>
     <image file="018_02.jpg">
-      <box height="337" left="671" top="1253" width="344">
+      <box height="344" left="1253" top="671" width="337">
         <part name="0" x="1273" y="769"/>
         <part name="1" x="1278" y="812"/>
         <part name="2" x="1289" y="852"/>
@@ -6266,7 +6266,7 @@
       </box>
     </image>
     <image file="018_03.jpg">
-      <box height="349" left="543" top="1003" width="368">
+      <box height="368" left="1003" top="543" width="349">
         <part name="0" x="1017" y="588"/>
         <part name="1" x="1014" y="642"/>
         <part name="2" x="1017" y="697"/>
@@ -6338,7 +6338,7 @@
       </box>
     </image>
     <image file="018_04.jpg">
-      <box height="359" left="392" top="1152" width="401">
+      <box height="401" left="1152" top="392" width="359">
         <part name="0" x="1146" y="524"/>
         <part name="1" x="1155" y="578"/>
         <part name="2" x="1169" y="630"/>
@@ -6410,7 +6410,7 @@
       </box>
     </image>
     <image file="018_05.jpg">
-      <box height="267" left="710" top="710" width="255">
+      <box height="255" left="710" top="710" width="267">
         <part name="0" x="702" y="824"/>
         <part name="1" x="713" y="857"/>
         <part name="2" x="729" y="889"/>
@@ -6482,7 +6482,7 @@
       </box>
     </image>
     <image file="019_01.jpg">
-      <box height="437" left="595" top="1153" width="412">
+      <box height="412" left="1153" top="595" width="437">
         <part name="0" x="1160" y="669"/>
         <part name="1" x="1162" y="738"/>
         <part name="2" x="1172" y="808"/>
@@ -6554,7 +6554,7 @@
       </box>
     </image>
     <image file="019_02.jpg">
-      <box height="283" left="739" top="576" width="232">
+      <box height="232" left="576" top="739" width="283">
         <part name="0" x="631" y="826"/>
         <part name="1" x="633" y="849"/>
         <part name="2" x="639" y="872"/>
@@ -6626,7 +6626,7 @@
       </box>
     </image>
     <image file="019_03.jpg">
-      <box height="437" left="377" top="692" width="437">
+      <box height="437" left="692" top="377" width="437">
         <part name="0" x="710" y="450"/>
         <part name="1" x="709" y="519"/>
         <part name="2" x="716" y="589"/>
@@ -6698,7 +6698,7 @@
       </box>
     </image>
     <image file="019_04.jpg">
-      <box height="243" left="759" top="1450" width="218">
+      <box height="218" left="1450" top="759" width="243">
         <part name="0" x="1453" y="814"/>
         <part name="1" x="1457" y="846"/>
         <part name="2" x="1464" y="878"/>
@@ -6770,7 +6770,7 @@
       </box>
     </image>
     <image file="019_05.jpg">
-      <box height="320" left="681" top="953" width="336">
+      <box height="336" left="953" top="681" width="320">
         <part name="0" x="956" y="765"/>
         <part name="1" x="960" y="815"/>
         <part name="2" x="968" y="864"/>
@@ -6842,7 +6842,7 @@
       </box>
     </image>
     <image file="020_01.jpg">
-      <box height="352" left="601" top="617" width="288">
+      <box height="288" left="617" top="601" width="352">
         <part name="0" x="652" y="640"/>
         <part name="1" x="652" y="682"/>
         <part name="2" x="655" y="725"/>
@@ -6914,7 +6914,7 @@
       </box>
     </image>
     <image file="020_02.jpg">
-      <box height="422" left="413" top="962" width="422">
+      <box height="422" left="962" top="413" width="422">
         <part name="0" x="990" y="483"/>
         <part name="1" x="987" y="539"/>
         <part name="2" x="988" y="597"/>
@@ -6986,7 +6986,7 @@
       </box>
     </image>
     <image file="020_03.jpg">
-      <box height="433" left="584" top="854" width="395">
+      <box height="395" left="854" top="584" width="433">
         <part name="0" x="878" y="630"/>
         <part name="1" x="874" y="688"/>
         <part name="2" x="875" y="749"/>
@@ -7058,7 +7058,7 @@
       </box>
     </image>
     <image file="020_04.jpg">
-      <box height="337" left="504" top="1324" width="353">
+      <box height="353" left="1324" top="504" width="337">
         <part name="0" x="1336" y="580"/>
         <part name="1" x="1333" y="625"/>
         <part name="2" x="1332" y="671"/>
@@ -7130,7 +7130,7 @@
       </box>
     </image>
     <image file="020_05.jpg">
-      <box height="211" left="427" top="982" width="223">
+      <box height="223" left="982" top="427" width="211">
         <part name="0" x="992" y="457"/>
         <part name="1" x="987" y="484"/>
         <part name="2" x="984" y="512"/>
@@ -7202,7 +7202,7 @@
       </box>
     </image>
     <image file="021_01.jpg">
-      <box height="386" left="470" top="764" width="368">
+      <box height="368" left="764" top="470" width="386">
         <part name="0" x="792" y="548"/>
         <part name="1" x="792" y="592"/>
         <part name="2" x="797" y="636"/>
@@ -7274,7 +7274,7 @@
       </box>
     </image>
     <image file="021_02.jpg">
-      <box height="422" left="307" top="962" width="422">
+      <box height="422" left="962" top="307" width="422">
         <part name="0" x="983" y="410"/>
         <part name="1" x="973" y="452"/>
         <part name="2" x="969" y="497"/>
@@ -7346,7 +7346,7 @@
       </box>
     </image>
     <image file="021_03.jpg">
-      <box height="201" left="400" top="411" width="194">
+      <box height="194" left="411" top="400" width="201">
         <part name="0" x="425" y="447"/>
         <part name="1" x="426" y="473"/>
         <part name="2" x="428" y="499"/>
@@ -7418,7 +7418,7 @@
       </box>
     </image>
     <image file="021_04.jpg">
-      <box height="276" left="506" top="488" width="276">
+      <box height="276" left="488" top="506" width="276">
         <part name="0" x="513" y="608"/>
         <part name="1" x="517" y="637"/>
         <part name="2" x="523" y="666"/>
@@ -7490,7 +7490,7 @@
       </box>
     </image>
     <image file="021_05.jpg">
-      <box height="251" left="495" top="579" width="265">
+      <box height="265" left="579" top="495" width="251">
         <part name="0" x="584" y="560"/>
         <part name="1" x="586" y="592"/>
         <part name="2" x="590" y="624"/>
@@ -7562,7 +7562,7 @@
       </box>
     </image>
     <image file="022_01.jpg">
-      <box height="232" left="640" top="1273" width="222">
+      <box height="222" left="1273" top="640" width="232">
         <part name="0" x="1277" y="677"/>
         <part name="1" x="1276" y="709"/>
         <part name="2" x="1278" y="742"/>
@@ -7634,7 +7634,7 @@
       </box>
     </image>
     <image file="022_02.jpg">
-      <box height="422" left="265" top="898" width="401">
+      <box height="401" left="898" top="265" width="422">
         <part name="0" x="926" y="347"/>
         <part name="1" x="932" y="404"/>
         <part name="2" x="944" y="459"/>
@@ -7706,7 +7706,7 @@
       </box>
     </image>
     <image file="022_03.jpg">
-      <box height="336" left="665" top="857" width="304">
+      <box height="304" left="857" top="665" width="336">
         <part name="0" x="859" y="759"/>
         <part name="1" x="867" y="805"/>
         <part name="2" x="879" y="851"/>
@@ -7778,7 +7778,7 @@
       </box>
     </image>
     <image file="022_04.jpg">
-      <box height="464" left="476" top="708" width="422">
+      <box height="422" left="708" top="476" width="464">
         <part name="0" x="727" y="557"/>
         <part name="1" x="728" y="621"/>
         <part name="2" x="735" y="684"/>
@@ -7850,7 +7850,7 @@
       </box>
     </image>
     <image file="022_05.jpg">
-      <box height="267" left="662" top="1013" width="267">
+      <box height="267" left="1013" top="662" width="267">
         <part name="0" x="1033" y="699"/>
         <part name="1" x="1030" y="736"/>
         <part name="2" x="1030" y="774"/>
@@ -7922,7 +7922,7 @@
       </box>
     </image>
     <image file="023_01.jpg">
-      <box height="336" left="521" top="489" width="336">
+      <box height="336" left="489" top="521" width="336">
         <part name="0" x="487" y="609"/>
         <part name="1" x="494" y="654"/>
         <part name="2" x="505" y="699"/>
@@ -7994,7 +7994,7 @@
       </box>
     </image>
     <image file="023_02.jpg">
-      <box height="387" left="485" top="469" width="337">
+      <box height="337" left="469" top="485" width="387">
         <part name="0" x="504" y="548"/>
         <part name="1" x="512" y="597"/>
         <part name="2" x="524" y="643"/>
@@ -8066,7 +8066,7 @@
       </box>
     </image>
     <image file="023_03.jpg">
-      <box height="509" left="450" top="1007" width="509">
+      <box height="509" left="1007" top="450" width="509">
         <part name="0" x="1026" y="588"/>
         <part name="1" x="1034" y="655"/>
         <part name="2" x="1046" y="722"/>
@@ -8138,7 +8138,7 @@
       </box>
     </image>
     <image file="023_04.jpg">
-      <box height="303" left="625" top="807" width="243">
+      <box height="243" left="807" top="625" width="303">
         <part name="0" x="837" y="687"/>
         <part name="1" x="841" y="717"/>
         <part name="2" x="851" y="747"/>
@@ -8210,7 +8210,7 @@
       </box>
     </image>
     <image file="023_05.jpg">
-      <box height="401" left="582" top="708" width="359">
+      <box height="359" left="708" top="582" width="401">
         <part name="0" x="713" y="653"/>
         <part name="1" x="719" y="706"/>
         <part name="2" x="730" y="759"/>
@@ -8282,7 +8282,7 @@
       </box>
     </image>
     <image file="024_01.jpg">
-      <box height="461" left="450" top="595" width="509">
+      <box height="509" left="595" top="450" width="461">
         <part name="0" x="605" y="587"/>
         <part name="1" x="618" y="647"/>
         <part name="2" x="634" y="706"/>
@@ -8354,7 +8354,7 @@
       </box>
     </image>
     <image file="024_02.jpg">
-      <box height="349" left="562" top="1168" width="368">
+      <box height="368" left="1168" top="562" width="349">
         <part name="0" x="1184" y="638"/>
         <part name="1" x="1179" y="683"/>
         <part name="2" x="1178" y="730"/>
@@ -8426,7 +8426,7 @@
       </box>
     </image>
     <image file="024_03.jpg">
-      <box height="306" left="384" top="287" width="293">
+      <box height="293" left="287" top="384" width="306">
         <part name="0" x="300" y="448"/>
         <part name="1" x="299" y="485"/>
         <part name="2" x="304" y="523"/>
@@ -8498,7 +8498,7 @@
       </box>
     </image>
     <image file="024_04.jpg">
-      <box height="443" left="370" top="898" width="422">
+      <box height="422" left="898" top="370" width="443">
         <part name="0" x="948" y="399"/>
         <part name="1" x="947" y="463"/>
         <part name="2" x="951" y="526"/>
@@ -8570,7 +8570,7 @@
       </box>
     </image>
     <image file="024_05.jpg">
-      <box height="320" left="601" top="1017" width="352">
+      <box height="352" left="1017" top="601" width="320">
         <part name="0" x="1038" y="617"/>
         <part name="1" x="1034" y="665"/>
         <part name="2" x="1034" y="713"/>
@@ -8642,7 +8642,7 @@
       </box>
     </image>
     <image file="025_01.jpg">
-      <box height="352" left="665" top="329" width="320">
+      <box height="320" left="329" top="665" width="352">
         <part name="0" x="352" y="695"/>
         <part name="1" x="354" y="744"/>
         <part name="2" x="360" y="793"/>
@@ -8714,7 +8714,7 @@
       </box>
     </image>
     <image file="025_02.jpg">
-      <box height="253" left="397" top="703" width="232">
+      <box height="232" left="703" top="397" width="253">
         <part name="0" x="710" y="428"/>
         <part name="1" x="713" y="463"/>
         <part name="2" x="719" y="498"/>
@@ -8786,7 +8786,7 @@
       </box>
     </image>
     <image file="025_03.jpg">
-      <box height="336" left="729" top="889" width="316">
+      <box height="316" left="889" top="729" width="336">
         <part name="0" x="900" y="747"/>
         <part name="1" x="901" y="795"/>
         <part name="2" x="906" y="845"/>
@@ -8858,7 +8858,7 @@
       </box>
     </image>
     <image file="025_04.jpg">
-      <box height="218" left="468" top="1001" width="206">
+      <box height="206" left="1001" top="468" width="218">
         <part name="0" x="1017" y="489"/>
         <part name="1" x="1017" y="520"/>
         <part name="2" x="1021" y="551"/>
@@ -8930,7 +8930,7 @@
       </box>
     </image>
     <image file="025_05.jpg">
-      <box height="267" left="625" top="1135" width="243">
+      <box height="243" left="1135" top="625" width="267">
         <part name="0" x="1145" y="643"/>
         <part name="1" x="1146" y="679"/>
         <part name="2" x="1150" y="715"/>
@@ -9002,7 +9002,7 @@
       </box>
     </image>
     <image file="026_01.jpg">
-      <box height="232" left="756" top="1062" width="222">
+      <box height="222" left="1062" top="756" width="232">
         <part name="0" x="1070" y="784"/>
         <part name="1" x="1071" y="816"/>
         <part name="2" x="1073" y="849"/>
@@ -9074,7 +9074,7 @@
       </box>
     </image>
     <image file="026_02.jpg">
-      <box height="401" left="328" top="1004" width="422">
+      <box height="422" left="1004" top="328" width="401">
         <part name="0" x="1027" y="433"/>
         <part name="1" x="1034" y="494"/>
         <part name="2" x="1046" y="554"/>
@@ -9146,7 +9146,7 @@
       </box>
     </image>
     <image file="026_03.jpg">
-      <box height="211" left="629" top="925" width="222">
+      <box height="222" left="925" top="629" width="211">
         <part name="0" x="928" y="671"/>
         <part name="1" x="930" y="701"/>
         <part name="2" x="934" y="731"/>
@@ -9218,7 +9218,7 @@
       </box>
     </image>
     <image file="026_04.jpg">
-      <box height="304" left="425" top="873" width="304">
+      <box height="304" left="873" top="425" width="304">
         <part name="0" x="898" y="509"/>
         <part name="1" x="908" y="547"/>
         <part name="2" x="921" y="584"/>
@@ -9290,7 +9290,7 @@
       </box>
     </image>
     <image file="026_05.jpg">
-      <box height="401" left="455" top="1130" width="359">
+      <box height="359" left="1130" top="455" width="401">
         <part name="0" x="1180" y="529"/>
         <part name="1" x="1187" y="582"/>
         <part name="2" x="1199" y="634"/>
@@ -9362,7 +9362,7 @@
       </box>
     </image>
     <image file="027_01.jpg">
-      <box height="288" left="409" top="841" width="288">
+      <box height="288" left="841" top="409" width="288">
         <part name="0" x="863" y="497"/>
         <part name="1" x="866" y="531"/>
         <part name="2" x="872" y="565"/>
@@ -9434,7 +9434,7 @@
       </box>
     </image>
     <image file="027_02.jpg">
-      <box height="378" left="686" top="1181" width="329">
+      <box height="329" left="1181" top="686" width="378">
         <part name="0" x="1213" y="685"/>
         <part name="1" x="1212" y="742"/>
         <part name="2" x="1215" y="798"/>
@@ -9506,7 +9506,7 @@
       </box>
     </image>
     <image file="027_03.jpg">
-      <box height="230" left="698" top="1195" width="230">
+      <box height="230" left="1195" top="698" width="230">
         <part name="0" x="1215" y="718"/>
         <part name="1" x="1214" y="751"/>
         <part name="2" x="1216" y="784"/>
@@ -9578,7 +9578,7 @@
       </box>
     </image>
     <image file="027_04.jpg">
-      <box height="293" left="537" top="858" width="293">
+      <box height="293" left="858" top="537" width="293">
         <part name="0" x="888" y="602"/>
         <part name="1" x="890" y="638"/>
         <part name="2" x="896" y="673"/>
@@ -9650,7 +9650,7 @@
       </box>
     </image>
     <image file="027_05.jpg">
-      <box height="251" left="412" top="663" width="251">
+      <box height="251" left="663" top="412" width="251">
         <part name="0" x="676" y="457"/>
         <part name="1" x="682" y="492"/>
         <part name="2" x="690" y="528"/>
@@ -9722,7 +9722,7 @@
       </box>
     </image>
     <image file="028_01.jpg">
-      <box height="232" left="513" top="1062" width="169">
+      <box height="169" left="1062" top="513" width="232">
         <part name="0" x="1084" y="534"/>
         <part name="1" x="1080" y="554"/>
         <part name="2" x="1079" y="576"/>
@@ -9794,7 +9794,7 @@
       </box>
     </image>
     <image file="028_02.jpg">
-      <box height="401" left="413" top="729" width="317">
+      <box height="317" left="729" top="413" width="401">
         <part name="0" x="778" y="480"/>
         <part name="1" x="779" y="529"/>
         <part name="2" x="784" y="579"/>
@@ -9866,7 +9866,7 @@
       </box>
     </image>
     <image file="028_03.jpg">
-      <box height="255" left="638" top="1026" width="218">
+      <box height="218" left="1026" top="638" width="255">
         <part name="0" x="1049" y="698"/>
         <part name="1" x="1053" y="727"/>
         <part name="2" x="1061" y="757"/>
@@ -9938,7 +9938,7 @@
       </box>
     </image>
     <image file="028_04.jpg">
-      <box height="358" left="608" top="1413" width="320">
+      <box height="320" left="1413" top="608" width="358">
         <part name="0" x="1415" y="688"/>
         <part name="1" x="1421" y="734"/>
         <part name="2" x="1430" y="779"/>
@@ -10010,7 +10010,7 @@
       </box>
     </image>
     <image file="028_05.jpg">
-      <box height="306" left="440" top="635" width="251">
+      <box height="251" left="635" top="440" width="306">
         <part name="0" x="655" y="502"/>
         <part name="1" x="660" y="537"/>
         <part name="2" x="667" y="571"/>
@@ -10082,7 +10082,7 @@
       </box>
     </image>
     <image file="029_01.jpg">
-      <box height="293" left="490" top="859" width="305">
+      <box height="305" left="859" top="490" width="293">
         <part name="0" x="856" y="572"/>
         <part name="1" x="852" y="612"/>
         <part name="2" x="848" y="653"/>
@@ -10154,7 +10154,7 @@
       </box>
     </image>
     <image file="029_02.jpg">
-      <box height="310" left="482" top="1212" width="320">
+      <box height="320" left="1212" top="482" width="310">
         <part name="0" x="1200" y="541"/>
         <part name="1" x="1196" y="586"/>
         <part name="2" x="1195" y="633"/>
@@ -10226,7 +10226,7 @@
       </box>
     </image>
     <image file="029_03.jpg">
-      <box height="339" left="485" top="609" width="291">
+      <box height="291" left="609" top="485" width="339">
         <part name="0" x="656" y="523"/>
         <part name="1" x="649" y="562"/>
         <part name="2" x="645" y="603"/>
@@ -10298,7 +10298,7 @@
       </box>
     </image>
     <image file="029_04.jpg">
-      <box height="165" left="499" top="878" width="140">
+      <box height="140" left="878" top="499" width="165">
         <part name="0" x="891" y="509"/>
         <part name="1" x="888" y="531"/>
         <part name="2" x="888" y="555"/>
@@ -10370,7 +10370,7 @@
       </box>
     </image>
     <image file="029_05.jpg">
-      <box height="162" left="674" top="1200" width="167">
+      <box height="167" left="1200" top="674" width="162">
         <part name="0" x="1191" y="680"/>
         <part name="1" x="1188" y="706"/>
         <part name="2" x="1187" y="733"/>
@@ -10442,7 +10442,7 @@
       </box>
     </image>
     <image file="030_01.jpg">
-      <box height="480" left="497" top="465" width="416">
+      <box height="416" left="465" top="497" width="480">
         <part name="0" x="479" y="613"/>
         <part name="1" x="477" y="655"/>
         <part name="2" x="482" y="699"/>
@@ -10514,7 +10514,7 @@
       </box>
     </image>
     <image file="030_02.jpg">
-      <box height="336" left="521" top="729" width="336">
+      <box height="336" left="729" top="521" width="336">
         <part name="0" x="748" y="562"/>
         <part name="1" x="746" y="605"/>
         <part name="2" x="746" y="650"/>
@@ -10586,7 +10586,7 @@
       </box>
     </image>
     <image file="030_03.jpg">
-      <box height="422" left="560" top="645" width="422">
+      <box height="422" left="645" top="560" width="422">
         <part name="0" x="672" y="680"/>
         <part name="1" x="682" y="730"/>
         <part name="2" x="697" y="778"/>
@@ -10658,7 +10658,7 @@
       </box>
     </image>
     <image file="030_04.jpg">
-      <box height="352" left="681" top="793" width="352">
+      <box height="352" left="793" top="681" width="352">
         <part name="0" x="817" y="760"/>
         <part name="1" x="820" y="797"/>
         <part name="2" x="830" y="834"/>
@@ -10730,7 +10730,7 @@
       </box>
     </image>
     <image file="030_05.jpg">
-      <box height="304" left="281" top="441" width="240">
+      <box height="240" left="441" top="281" width="304">
         <part name="0" x="474" y="398"/>
         <part name="1" x="487" y="429"/>
         <part name="2" x="501" y="459"/>
@@ -10802,7 +10802,7 @@
       </box>
     </image>
     <image file="031_01.jpg">
-      <box height="422" left="624" top="603" width="413">
+      <box height="413" left="603" top="624" width="422">
         <part name="0" x="614" y="709"/>
         <part name="1" x="620" y="779"/>
         <part name="2" x="632" y="848"/>
@@ -10874,7 +10874,7 @@
       </box>
     </image>
     <image file="031_02.jpg">
-      <box height="230" left="553" top="1086" width="243">
+      <box height="243" left="1086" top="553" width="230">
         <part name="0" x="1084" y="640"/>
         <part name="1" x="1089" y="673"/>
         <part name="2" x="1098" y="705"/>
@@ -10946,7 +10946,7 @@
       </box>
     </image>
     <image file="031_03.jpg">
-      <box height="288" left="601" top="857" width="288">
+      <box height="288" left="857" top="601" width="288">
         <part name="0" x="880" y="706"/>
         <part name="1" x="883" y="736"/>
         <part name="2" x="889" y="765"/>
@@ -11018,7 +11018,7 @@
       </box>
     </image>
     <image file="031_04.jpg">
-      <box height="304" left="617" top="969" width="304">
+      <box height="304" left="969" top="617" width="304">
         <part name="0" x="983" y="682"/>
         <part name="1" x="987" y="727"/>
         <part name="2" x="996" y="771"/>
@@ -11090,7 +11090,7 @@
       </box>
     </image>
     <image file="031_05.jpg">
-      <box height="401" left="307" top="877" width="443">
+      <box height="443" left="877" top="307" width="401">
         <part name="0" x="896" y="447"/>
         <part name="1" x="897" y="495"/>
         <part name="2" x="903" y="541"/>
@@ -11162,7 +11162,7 @@
       </box>
     </image>
     <image file="032_01.jpg">
-      <box height="419" left="628" top="723" width="416">
+      <box height="416" left="723" top="628" width="419">
         <part name="0" x="735" y="715"/>
         <part name="1" x="729" y="769"/>
         <part name="2" x="728" y="824"/>
@@ -11234,7 +11234,7 @@
       </box>
     </image>
     <image file="032_02.jpg">
-      <box height="295" left="647" top="1256" width="247">
+      <box height="247" left="1256" top="647" width="295">
         <part name="0" x="1276" y="699"/>
         <part name="1" x="1279" y="735"/>
         <part name="2" x="1284" y="772"/>
@@ -11306,7 +11306,7 @@
       </box>
     </image>
     <image file="032_03.jpg">
-      <box height="279" left="621" top="607" width="279">
+      <box height="279" left="607" top="621" width="279">
         <part name="0" x="619" y="690"/>
         <part name="1" x="621" y="722"/>
         <part name="2" x="626" y="754"/>
@@ -11378,7 +11378,7 @@
       </box>
     </image>
     <image file="032_04.jpg">
-      <box height="346" left="700" top="973" width="310">
+      <box height="310" left="973" top="700" width="346">
         <part name="0" x="995" y="767"/>
         <part name="1" x="995" y="812"/>
         <part name="2" x="998" y="858"/>
@@ -11450,7 +11450,7 @@
       </box>
     </image>
     <image file="032_05.jpg">
-      <box height="404" left="617" top="506" width="349">
+      <box height="349" left="506" top="617" width="404">
         <part name="0" x="528" y="724"/>
         <part name="1" x="532" y="770"/>
         <part name="2" x="539" y="816"/>
@@ -11522,7 +11522,7 @@
       </box>
     </image>
     <image file="033_01.jpg">
-      <box height="189" left="754" top="815" width="206">
+      <box height="206" left="815" top="754" width="189">
         <part name="0" x="825" y="795"/>
         <part name="1" x="820" y="821"/>
         <part name="2" x="817" y="848"/>
@@ -11594,7 +11594,7 @@
       </box>
     </image>
     <image file="033_02.jpg">
-      <box height="230" left="638" top="1135" width="243">
+      <box height="243" left="1135" top="638" width="230">
         <part name="0" x="1129" y="717"/>
         <part name="1" x="1136" y="750"/>
         <part name="2" x="1145" y="783"/>
@@ -11666,7 +11666,7 @@
       </box>
     </image>
     <image file="033_03.jpg">
-      <box height="222" left="819" top="1294" width="211">
+      <box height="211" left="1294" top="819" width="222">
         <part name="0" x="1291" y="865"/>
         <part name="1" x="1292" y="890"/>
         <part name="2" x="1295" y="915"/>
@@ -11738,7 +11738,7 @@
       </box>
     </image>
     <image file="033_04.jpg">
-      <box height="352" left="345" top="1113" width="336">
+      <box height="336" left="1113" top="345" width="352">
         <part name="0" x="1134" y="431"/>
         <part name="1" x="1131" y="476"/>
         <part name="2" x="1131" y="521"/>
@@ -11810,7 +11810,7 @@
       </box>
     </image>
     <image file="033_05.jpg">
-      <box height="232" left="619" top="1051" width="222">
+      <box height="222" left="1051" top="619" width="232">
         <part name="0" x="1047" y="682"/>
         <part name="1" x="1050" y="708"/>
         <part name="2" x="1056" y="734"/>
@@ -11882,7 +11882,7 @@
       </box>
     </image>
     <image file="034_01.jpg">
-      <box height="211" left="650" top="1115" width="222">
+      <box height="222" left="1115" top="650" width="211">
         <part name="0" x="1122" y="671"/>
         <part name="1" x="1121" y="700"/>
         <part name="2" x="1123" y="730"/>
@@ -11954,7 +11954,7 @@
       </box>
     </image>
     <image file="034_02.jpg">
-      <box height="304" left="569" top="857" width="288">
+      <box height="288" left="857" top="569" width="304">
         <part name="0" x="858" y="588"/>
         <part name="1" x="858" y="634"/>
         <part name="2" x="862" y="682"/>
@@ -12026,7 +12026,7 @@
       </box>
     </image>
     <image file="034_03.jpg">
-      <box height="336" left="569" top="105" width="304">
+      <box height="304" left="105" top="569" width="336">
         <part name="0" x="107" y="611"/>
         <part name="1" x="112" y="655"/>
         <part name="2" x="120" y="699"/>
@@ -12098,7 +12098,7 @@
       </box>
     </image>
     <image file="034_04.jpg">
-      <box height="404" left="451" top="966" width="404">
+      <box height="404" left="966" top="451" width="404">
         <part name="0" x="1003" y="492"/>
         <part name="1" x="995" y="545"/>
         <part name="2" x="990" y="600"/>
@@ -12170,7 +12170,7 @@
       </box>
     </image>
     <image file="034_05.jpg">
-      <box height="243" left="650" top="1377" width="206">
+      <box height="206" left="1377" top="650" width="243">
         <part name="0" x="1389" y="650"/>
         <part name="1" x="1388" y="683"/>
         <part name="2" x="1389" y="717"/>
@@ -12242,7 +12242,7 @@
       </box>
     </image>
     <image file="035_01.jpg">
-      <box height="401" left="518" top="645" width="380">
+      <box height="380" left="645" top="518" width="401">
         <part name="0" x="646" y="572"/>
         <part name="1" x="649" y="626"/>
         <part name="2" x="656" y="681"/>
@@ -12314,7 +12314,7 @@
       </box>
     </image>
     <image file="035_02.jpg">
-      <box height="255" left="541" top="819" width="243">
+      <box height="243" left="819" top="541" width="255">
         <part name="0" x="839" y="566"/>
         <part name="1" x="838" y="601"/>
         <part name="2" x="842" y="637"/>
@@ -12386,7 +12386,7 @@
       </box>
     </image>
     <image file="035_03.jpg">
-      <box height="243" left="577" top="601" width="255">
+      <box height="255" left="601" top="577" width="243">
         <part name="0" x="599" y="615"/>
         <part name="1" x="600" y="650"/>
         <part name="2" x="604" y="686"/>
@@ -12458,7 +12458,7 @@
       </box>
     </image>
     <image file="035_04.jpg">
-      <box height="331" left="525" top="488" width="349">
+      <box height="349" left="488" top="525" width="331">
         <part name="0" x="495" y="583"/>
         <part name="1" x="497" y="629"/>
         <part name="2" x="502" y="675"/>
@@ -12530,7 +12530,7 @@
       </box>
     </image>
     <image file="035_05.jpg">
-      <box height="462" left="359" top="309" width="511">
+      <box height="511" left="309" top="359" width="462">
         <part name="0" x="333" y="435"/>
         <part name="1" x="334" y="501"/>
         <part name="2" x="343" y="569"/>
@@ -12602,7 +12602,7 @@
       </box>
     </image>
     <image file="036_01.jpg">
-      <box height="265" left="690" top="732" width="251">
+      <box height="251" left="732" top="690" width="265">
         <part name="0" x="758" y="760"/>
         <part name="1" x="761" y="787"/>
         <part name="2" x="767" y="815"/>
@@ -12674,7 +12674,7 @@
       </box>
     </image>
     <image file="036_02.jpg">
-      <box height="368" left="596" top="779" width="307">
+      <box height="307" left="779" top="596" width="368">
         <part name="0" x="829" y="687"/>
         <part name="1" x="835" y="729"/>
         <part name="2" x="844" y="772"/>
@@ -12746,7 +12746,7 @@
       </box>
     </image>
     <image file="036_03.jpg">
-      <box height="222" left="260" top="766" width="211">
+      <box height="211" left="766" top="260" width="222">
         <part name="0" x="775" y="299"/>
         <part name="1" x="776" y="326"/>
         <part name="2" x="780" y="354"/>
@@ -12818,7 +12818,7 @@
       </box>
     </image>
     <image file="036_04.jpg">
-      <box height="542" left="194" top="1086" width="530">
+      <box height="530" left="1086" top="194" width="542">
         <part name="0" x="1135" y="277"/>
         <part name="1" x="1137" y="340"/>
         <part name="2" x="1143" y="405"/>
@@ -12890,7 +12890,7 @@
       </box>
     </image>
     <image file="036_05.jpg">
-      <box height="506" left="444" top="890" width="487">
+      <box height="487" left="890" top="444" width="506">
         <part name="0" x="972" y="606"/>
         <part name="1" x="983" y="670"/>
         <part name="2" x="999" y="732"/>
@@ -12962,7 +12962,7 @@
       </box>
     </image>
     <image file="037_01.jpg">
-      <box height="422" left="202" top="370" width="380">
+      <box height="380" left="370" top="202" width="422">
         <part name="0" x="407" y="271"/>
         <part name="1" x="410" y="318"/>
         <part name="2" x="420" y="363"/>
@@ -13034,7 +13034,7 @@
       </box>
     </image>
     <image file="037_02.jpg">
-      <box height="422" left="518" top="624" width="507">
+      <box height="507" left="624" top="518" width="422">
         <part name="0" x="646" y="608"/>
         <part name="1" x="639" y="666"/>
         <part name="2" x="638" y="723"/>
@@ -13106,7 +13106,7 @@
       </box>
     </image>
     <image file="037_03.jpg">
-      <box height="168" left="765" top="1213" width="192">
+      <box height="192" left="1213" top="765" width="168">
         <part name="0" x="1223" y="808"/>
         <part name="1" x="1222" y="831"/>
         <part name="2" x="1223" y="854"/>
@@ -13178,7 +13178,7 @@
       </box>
     </image>
     <image file="037_04.jpg">
-      <box height="175" left="456" top="1292" width="184">
+      <box height="184" left="1292" top="456" width="175">
         <part name="0" x="1292" y="513"/>
         <part name="1" x="1292" y="535"/>
         <part name="2" x="1294" y="557"/>
@@ -13250,7 +13250,7 @@
       </box>
     </image>
     <image file="037_05.jpg">
-      <box height="175" left="465" top="1283" width="184">
+      <box height="184" left="1283" top="465" width="175">
         <part name="0" x="1282" y="515"/>
         <part name="1" x="1282" y="538"/>
         <part name="2" x="1284" y="560"/>
@@ -13322,7 +13322,7 @@
       </box>
     </image>
     <image file="038_01.jpg">
-      <box height="470" left="531" top="418" width="431">
+      <box height="431" left="418" top="531" width="470">
         <part name="0" x="469" y="662"/>
         <part name="1" x="477" y="724"/>
         <part name="2" x="493" y="786"/>
@@ -13394,7 +13394,7 @@
       </box>
     </image>
     <image file="038_02.jpg">
-      <box height="293" left="398" top="663" width="306">
+      <box height="306" left="663" top="398" width="293">
         <part name="0" x="684" y="448"/>
         <part name="1" x="683" y="486"/>
         <part name="2" x="685" y="524"/>
@@ -13466,7 +13466,7 @@
       </box>
     </image>
     <image file="038_03.jpg">
-      <box height="397" left="582" top="568" width="349">
+      <box height="349" left="568" top="582" width="397">
         <part name="0" x="606" y="658"/>
         <part name="1" x="609" y="708"/>
         <part name="2" x="616" y="758"/>
@@ -13538,7 +13538,7 @@
       </box>
     </image>
     <image file="038_04.jpg">
-      <box height="361" left="424" top="1055" width="339">
+      <box height="339" left="1055" top="424" width="361">
         <part name="0" x="1080" y="503"/>
         <part name="1" x="1080" y="551"/>
         <part name="2" x="1084" y="600"/>
@@ -13610,7 +13610,7 @@
       </box>
     </image>
     <image file="038_05.jpg">
-      <box height="230" left="710" top="1135" width="230">
+      <box height="230" left="1135" top="710" width="230">
         <part name="0" x="1154" y="786"/>
         <part name="1" x="1164" y="814"/>
         <part name="2" x="1176" y="840"/>
@@ -13682,7 +13682,7 @@
       </box>
     </image>
     <image file="039_01.jpg">
-      <box height="320" left="409" top="393" width="304">
+      <box height="304" left="393" top="409" width="320">
         <part name="0" x="412" y="492"/>
         <part name="1" x="417" y="532"/>
         <part name="2" x="425" y="570"/>
@@ -13754,7 +13754,7 @@
       </box>
     </image>
     <image file="039_02.jpg">
-      <box height="336" left="425" top="1161" width="320">
+      <box height="320" left="1161" top="425" width="336">
         <part name="0" x="1202" y="470"/>
         <part name="1" x="1200" y="515"/>
         <part name="2" x="1203" y="560"/>
@@ -13826,7 +13826,7 @@
       </box>
     </image>
     <image file="039_03.jpg">
-      <box height="359" left="392" top="750" width="422">
+      <box height="422" left="750" top="392" width="359">
         <part name="0" x="774" y="547"/>
         <part name="1" x="780" y="593"/>
         <part name="2" x="792" y="638"/>
@@ -13898,7 +13898,7 @@
       </box>
     </image>
     <image file="039_04.jpg">
-      <box height="218" left="589" top="1280" width="206">
+      <box height="206" left="1280" top="589" width="218">
         <part name="0" x="1282" y="625"/>
         <part name="1" x="1279" y="652"/>
         <part name="2" x="1281" y="679"/>
@@ -13970,7 +13970,7 @@
       </box>
     </image>
     <image file="039_05.jpg">
-      <box height="218" left="456" top="1280" width="255">
+      <box height="255" left="1280" top="456" width="218">
         <part name="0" x="1284" y="526"/>
         <part name="1" x="1285" y="557"/>
         <part name="2" x="1291" y="588"/>
@@ -14042,7 +14042,7 @@
       </box>
     </image>
     <image file="040_01.jpg">
-      <box height="304" left="585" top="1017" width="336">
+      <box height="336" left="1017" top="585" width="304">
         <part name="0" x="1033" y="620"/>
         <part name="1" x="1027" y="668"/>
         <part name="2" x="1026" y="717"/>
@@ -14114,7 +14114,7 @@
       </box>
     </image>
     <image file="040_02.jpg">
-      <box height="201" left="682" top="745" width="211">
+      <box height="211" left="745" top="682" width="201">
         <part name="0" x="760" y="714"/>
         <part name="1" x="758" y="742"/>
         <part name="2" x="759" y="771"/>
@@ -14186,7 +14186,7 @@
       </box>
     </image>
     <image file="040_03.jpg">
-      <box height="443" left="202" top="1088" width="443">
+      <box height="443" left="1088" top="202" width="443">
         <part name="0" x="1102" y="311"/>
         <part name="1" x="1111" y="372"/>
         <part name="2" x="1125" y="431"/>
@@ -14258,7 +14258,7 @@
       </box>
     </image>
     <image file="040_04.jpg">
-      <box height="320" left="505" top="1113" width="304">
+      <box height="304" left="1113" top="505" width="320">
         <part name="0" x="1119" y="571"/>
         <part name="1" x="1125" y="612"/>
         <part name="2" x="1135" y="652"/>
@@ -14330,7 +14330,7 @@
       </box>
     </image>
     <image file="040_05.jpg">
-      <box height="320" left="425" top="1209" width="336">
+      <box height="336" left="1209" top="425" width="320">
         <part name="0" x="1181" y="502"/>
         <part name="1" x="1186" y="548"/>
         <part name="2" x="1196" y="592"/>
@@ -14402,7 +14402,7 @@
       </box>
     </image>
     <image file="041_01.jpg">
-      <box height="269" left="417" top="1130" width="276">
+      <box height="276" left="1130" top="417" width="269">
         <part name="0" x="1159" y="462"/>
         <part name="1" x="1152" y="498"/>
         <part name="2" x="1147" y="536"/>
@@ -14474,7 +14474,7 @@
       </box>
     </image>
     <image file="041_02.jpg">
-      <box height="324" left="618" top="1186" width="375">
+      <box height="375" left="1186" top="618" width="324">
         <part name="0" x="1201" y="697"/>
         <part name="1" x="1203" y="740"/>
         <part name="2" x="1208" y="783"/>
@@ -14546,7 +14546,7 @@
       </box>
     </image>
     <image file="041_03.jpg">
-      <box height="303" left="574" top="1469" width="315">
+      <box height="315" left="1469" top="574" width="303">
         <part name="0" x="1480" y="628"/>
         <part name="1" x="1478" y="669"/>
         <part name="2" x="1479" y="711"/>
@@ -14618,7 +14618,7 @@
       </box>
     </image>
     <image file="041_04.jpg">
-      <box height="264" left="465" top="626" width="254">
+      <box height="254" left="626" top="465" width="264">
         <part name="0" x="646" y="492"/>
         <part name="1" x="645" y="529"/>
         <part name="2" x="648" y="568"/>
@@ -14690,7 +14690,7 @@
       </box>
     </image>
     <image file="041_05.jpg">
-      <box height="361" left="415" top="1239" width="324">
+      <box height="324" left="1239" top="415" width="361">
         <part name="0" x="1258" y="440"/>
         <part name="1" x="1251" y="489"/>
         <part name="2" x="1249" y="540"/>
@@ -14762,7 +14762,7 @@
       </box>
     </image>
     <image file="042_01.jpg">
-      <box height="304" left="425" top="713" width="272">
+      <box height="272" left="713" top="425" width="304">
         <part name="0" x="754" y="492"/>
         <part name="1" x="758" y="525"/>
         <part name="2" x="765" y="557"/>
@@ -14834,7 +14834,7 @@
       </box>
     </image>
     <image file="042_02.jpg">
-      <box height="368" left="451" top="1003" width="368">
+      <box height="368" left="1003" top="451" width="368">
         <part name="0" x="1007" y="519"/>
         <part name="1" x="1010" y="572"/>
         <part name="2" x="1017" y="625"/>
@@ -14906,7 +14906,7 @@
       </box>
     </image>
     <image file="042_03.jpg">
-      <box height="247" left="490" top="917" width="232">
+      <box height="232" left="917" top="490" width="247">
         <part name="0" x="937" y="539"/>
         <part name="1" x="939" y="573"/>
         <part name="2" x="945" y="607"/>
@@ -14978,7 +14978,7 @@
       </box>
     </image>
     <image file="042_04.jpg">
-      <box height="534" left="522" top="1201" width="461">
+      <box height="461" left="1201" top="522" width="534">
         <part name="0" x="1226" y="575"/>
         <part name="1" x="1219" y="646"/>
         <part name="2" x="1220" y="721"/>
@@ -15050,7 +15050,7 @@
       </box>
     </image>
     <image file="042_05.jpg">
-      <box height="331" left="341" top="1297" width="312">
+      <box height="312" left="1297" top="341" width="331">
         <part name="0" x="1305" y="409"/>
         <part name="1" x="1308" y="453"/>
         <part name="2" x="1313" y="496"/>
@@ -15122,7 +15122,7 @@
       </box>
     </image>
     <image file="043_01.jpg">
-      <box height="359" left="434" top="497" width="380">
+      <box height="380" left="497" top="434" width="359">
         <part name="0" x="500" y="562"/>
         <part name="1" x="509" y="608"/>
         <part name="2" x="523" y="653"/>
@@ -15194,7 +15194,7 @@
       </box>
     </image>
     <image file="043_02.jpg">
-      <box height="320" left="521" top="745" width="368">
+      <box height="368" left="745" top="521" width="320">
         <part name="0" x="706" y="681"/>
         <part name="1" x="718" y="726"/>
         <part name="2" x="735" y="770"/>
@@ -15266,7 +15266,7 @@
       </box>
     </image>
     <image file="043_03.jpg">
-      <box height="380" left="434" top="962" width="401">
+      <box height="401" left="962" top="434" width="380">
         <part name="0" x="986" y="586"/>
         <part name="1" x="995" y="637"/>
         <part name="2" x="1008" y="689"/>
@@ -15338,7 +15338,7 @@
       </box>
     </image>
     <image file="043_04.jpg">
-      <box height="211" left="376" top="967" width="232">
+      <box height="232" left="967" top="376" width="211">
         <part name="0" x="959" y="441"/>
         <part name="1" x="963" y="471"/>
         <part name="2" x="970" y="500"/>
@@ -15410,7 +15410,7 @@
       </box>
     </image>
     <image file="043_05.jpg">
-      <box height="329" left="407" top="1191" width="288">
+      <box height="288" left="1191" top="407" width="329">
         <part name="0" x="1212" y="450"/>
         <part name="1" x="1216" y="496"/>
         <part name="2" x="1225" y="541"/>
@@ -15482,7 +15482,7 @@
       </box>
     </image>
     <image file="044_01.jpg">
-      <box height="484" left="584" top="1040" width="390">
+      <box height="390" left="1040" top="584" width="484">
         <part name="0" x="1085" y="611"/>
         <part name="1" x="1086" y="678"/>
         <part name="2" x="1093" y="745"/>
@@ -15554,7 +15554,7 @@
       </box>
     </image>
     <image file="044_02.jpg">
-      <box height="293" left="677" top="899" width="279">
+      <box height="279" left="899" top="677" width="293">
         <part name="0" x="908" y="706"/>
         <part name="1" x="905" y="747"/>
         <part name="2" x="905" y="790"/>
@@ -15626,7 +15626,7 @@
       </box>
     </image>
     <image file="044_03.jpg">
-      <box height="279" left="492" top="1147" width="243">
+      <box height="243" left="1147" top="492" width="279">
         <part name="0" x="1165" y="532"/>
         <part name="1" x="1173" y="565"/>
         <part name="2" x="1184" y="598"/>
@@ -15698,7 +15698,7 @@
       </box>
     </image>
     <image file="044_04.jpg">
-      <box height="279" left="686" top="807" width="230">
+      <box height="230" left="807" top="686" width="279">
         <part name="0" x="824" y="728"/>
         <part name="1" x="829" y="760"/>
         <part name="2" x="838" y="792"/>
@@ -15770,7 +15770,7 @@
       </box>
     </image>
     <image file="044_05.jpg">
-      <box height="265" left="356" top="1275" width="251">
+      <box height="251" left="1275" top="356" width="265">
         <part name="0" x="1279" y="401"/>
         <part name="1" x="1278" y="438"/>
         <part name="2" x="1280" y="475"/>
@@ -15914,7 +15914,7 @@
       </box>
     </image>
     <image file="045_02.jpg">
-      <box height="437" left="450" top="425" width="437">
+      <box height="437" left="425" top="450" width="437">
         <part name="0" x="487" y="598"/>
         <part name="1" x="490" y="643"/>
         <part name="2" x="501" y="687"/>
@@ -15986,7 +15986,7 @@
       </box>
     </image>
     <image file="045_03.jpg">
-      <box height="412" left="353" top="571" width="461">
+      <box height="461" left="571" top="353" width="412">
         <part name="0" x="599" y="502"/>
         <part name="1" x="605" y="559"/>
         <part name="2" x="616" y="614"/>
@@ -16058,7 +16058,7 @@
       </box>
     </image>
     <image file="045_04.jpg">
-      <box height="288" left="585" top="617" width="304">
+      <box height="304" left="617" top="585" width="288">
         <part name="0" x="630" y="691"/>
         <part name="1" x="637" y="727"/>
         <part name="2" x="649" y="763"/>
@@ -16130,7 +16130,7 @@
       </box>
     </image>
     <image file="045_05.jpg">
-      <box height="359" left="624" top="750" width="359">
+      <box height="359" left="750" top="624" width="359">
         <part name="0" x="748" y="700"/>
         <part name="1" x="741" y="737"/>
         <part name="2" x="742" y="780"/>
@@ -16202,7 +16202,7 @@
       </box>
     </image>
     <image file="046_01.jpg">
-      <box height="386" left="396" top="635" width="312">
+      <box height="312" left="635" top="396" width="386">
         <part name="0" x="647" y="513"/>
         <part name="1" x="653" y="554"/>
         <part name="2" x="660" y="592"/>
@@ -16274,7 +16274,7 @@
       </box>
     </image>
     <image file="046_02.jpg">
-      <box height="509" left="595" top="765" width="431">
+      <box height="431" left="765" top="595" width="509">
         <part name="0" x="774" y="708"/>
         <part name="1" x="783" y="772"/>
         <part name="2" x="798" y="836"/>
@@ -16346,7 +16346,7 @@
       </box>
     </image>
     <image file="046_03.jpg">
-      <box height="443" left="455" top="940" width="380">
+      <box height="380" left="940" top="455" width="443">
         <part name="0" x="942" y="527"/>
         <part name="1" x="946" y="589"/>
         <part name="2" x="954" y="650"/>
@@ -16418,7 +16418,7 @@
       </box>
     </image>
     <image file="046_04.jpg">
-      <box height="509" left="450" top="1104" width="437">
+      <box height="437" left="1104" top="450" width="509">
         <part name="0" x="1103" y="578"/>
         <part name="1" x="1116" y="646"/>
         <part name="2" x="1132" y="712"/>
@@ -16490,7 +16490,7 @@
       </box>
     </image>
     <image file="046_05.jpg">
-      <box height="443" left="455" top="940" width="422">
+      <box height="422" left="940" top="455" width="443">
         <part name="0" x="949" y="564"/>
         <part name="1" x="955" y="626"/>
         <part name="2" x="967" y="688"/>
@@ -16562,7 +16562,7 @@
       </box>
     </image>
     <image file="047_01.jpg">
-      <box height="368" left="525" top="1039" width="349">
+      <box height="349" left="1039" top="525" width="368">
         <part name="0" x="1053" y="563"/>
         <part name="1" x="1054" y="614"/>
         <part name="2" x="1062" y="665"/>
@@ -16634,7 +16634,7 @@
       </box>
     </image>
     <image file="047_02.jpg">
-      <box height="414" left="570" top="1048" width="351">
+      <box height="351" left="1048" top="570" width="414">
         <part name="0" x="1079" y="592"/>
         <part name="1" x="1076" y="644"/>
         <part name="2" x="1080" y="697"/>
@@ -16706,7 +16706,7 @@
       </box>
     </image>
     <image file="047_03.jpg">
-      <box height="419" left="688" top="1283" width="358">
+      <box height="358" left="1283" top="688" width="419">
         <part name="0" x="1314" y="708"/>
         <part name="1" x="1310" y="761"/>
         <part name="2" x="1310" y="815"/>
@@ -16778,7 +16778,7 @@
       </box>
     </image>
     <image file="047_04.jpg">
-      <box height="232" left="650" top="798" width="201">
+      <box height="201" left="798" top="650" width="232">
         <part name="0" x="811" y="677"/>
         <part name="1" x="811" y="707"/>
         <part name="2" x="816" y="736"/>
@@ -16850,7 +16850,7 @@
       </box>
     </image>
     <image file="047_05.jpg">
-      <box height="293" left="677" top="1234" width="306">
+      <box height="306" left="1234" top="677" width="293">
         <part name="0" x="1239" y="761"/>
         <part name="1" x="1249" y="801"/>
         <part name="2" x="1264" y="838"/>
@@ -16922,7 +16922,7 @@
       </box>
     </image>
     <image file="048_01.jpg">
-      <box height="310" left="618" top="1101" width="300">
+      <box height="300" left="1101" top="618" width="310">
         <part name="0" x="1128" y="671"/>
         <part name="1" x="1130" y="712"/>
         <part name="2" x="1135" y="753"/>
@@ -16994,7 +16994,7 @@
       </box>
     </image>
     <image file="048_02.jpg">
-      <box height="523" left="264" top="646" width="567">
+      <box height="567" left="646" top="264" width="523">
         <part name="0" x="672" y="364"/>
         <part name="1" x="669" y="433"/>
         <part name="2" x="669" y="504"/>
@@ -17066,7 +17066,7 @@
       </box>
     </image>
     <image file="048_03.jpg">
-      <box height="304" left="569" top="793" width="304">
+      <box height="304" left="793" top="569" width="304">
         <part name="0" x="807" y="617"/>
         <part name="1" x="805" y="657"/>
         <part name="2" x="805" y="697"/>
@@ -17138,7 +17138,7 @@
       </box>
     </image>
     <image file="048_04.jpg">
-      <box height="265" left="217" top="774" width="251">
+      <box height="251" left="774" top="217" width="265">
         <part name="0" x="801" y="310"/>
         <part name="1" x="808" y="339"/>
         <part name="2" x="818" y="366"/>
@@ -17210,7 +17210,7 @@
       </box>
     </image>
     <image file="048_05.jpg">
-      <box height="243" left="771" top="650" width="218">
+      <box height="218" left="650" top="771" width="243">
         <part name="0" x="665" y="802"/>
         <part name="1" x="665" y="833"/>
         <part name="2" x="667" y="864"/>
@@ -17282,7 +17282,7 @@
       </box>
     </image>
     <image file="049_01.jpg">
-      <box height="461" left="498" top="813" width="412">
+      <box height="412" left="813" top="498" width="461">
         <part name="0" x="845" y="600"/>
         <part name="1" x="859" y="655"/>
         <part name="2" x="877" y="707"/>
@@ -17354,7 +17354,7 @@
       </box>
     </image>
     <image file="049_02.jpg">
-      <box height="368" left="451" top="543" width="386">
+      <box height="386" left="543" top="451" width="368">
         <part name="0" x="529" y="559"/>
         <part name="1" x="538" y="617"/>
         <part name="2" x="551" y="676"/>
@@ -17426,7 +17426,7 @@
       </box>
     </image>
     <image file="049_03.jpg">
-      <box height="349" left="488" top="1003" width="331">
+      <box height="331" left="1003" top="488" width="349">
         <part name="0" x="1017" y="545"/>
         <part name="1" x="1020" y="589"/>
         <part name="2" x="1027" y="633"/>
@@ -17498,7 +17498,7 @@
       </box>
     </image>
     <image file="049_04.jpg">
-      <box height="320" left="665" top="521" width="320">
+      <box height="320" left="521" top="665" width="320">
         <part name="0" x="528" y="716"/>
         <part name="1" x="533" y="757"/>
         <part name="2" x="541" y="797"/>
@@ -17570,7 +17570,7 @@
       </box>
     </image>
     <image file="049_05.jpg">
-      <box height="534" left="474" top="159" width="485">
+      <box height="485" left="159" top="474" width="534">
         <part name="0" x="177" y="572"/>
         <part name="1" x="183" y="636"/>
         <part name="2" x="194" y="699"/>
@@ -17642,7 +17642,7 @@
       </box>
     </image>
     <image file="050_01.jpg">
-      <box height="368" left="681" top="473" width="272">
+      <box height="272" left="473" top="681" width="368">
         <part name="0" x="492" y="690"/>
         <part name="1" x="492" y="734"/>
         <part name="2" x="495" y="779"/>
@@ -17714,7 +17714,7 @@
       </box>
     </image>
     <image file="050_02.jpg">
-      <box height="303" left="453" top="1278" width="257">
+      <box height="257" left="1278" top="453" width="303">
         <part name="0" x="1314" y="456"/>
         <part name="1" x="1303" y="494"/>
         <part name="2" x="1296" y="534"/>
@@ -17786,7 +17786,7 @@
       </box>
     </image>
     <image file="050_03.jpg">
-      <box height="222" left="745" top="1136" width="211">
+      <box height="211" left="1136" top="745" width="222">
         <part name="0" x="1162" y="792"/>
         <part name="1" x="1155" y="813"/>
         <part name="2" x="1150" y="836"/>
@@ -17858,7 +17858,7 @@
       </box>
     </image>
     <image file="050_04.jpg">
-      <box height="385" left="303" top="454" width="322">
+      <box height="322" left="454" top="303" width="385">
         <part name="0" x="513" y="381"/>
         <part name="1" x="514" y="419"/>
         <part name="2" x="521" y="459"/>
@@ -17930,7 +17930,7 @@
       </box>
     </image>
     <image file="050_05.jpg">
-      <box height="349" left="725" top="1060" width="300">
+      <box height="300" left="1060" top="725" width="349">
         <part name="0" x="1089" y="776"/>
         <part name="1" x="1085" y="810"/>
         <part name="2" x="1086" y="846"/>
@@ -18002,7 +18002,7 @@
       </box>
     </image>
     <image file="051_01.jpg">
-      <box height="437" left="595" top="1129" width="431">
+      <box height="431" left="1129" top="595" width="437">
         <part name="0" x="1167" y="686"/>
         <part name="1" x="1170" y="748"/>
         <part name="2" x="1178" y="809"/>
@@ -18074,7 +18074,7 @@
       </box>
     </image>
     <image file="051_02.jpg">
-      <box height="422" left="434" top="1046" width="401">
+      <box height="401" left="1046" top="434" width="422">
         <part name="0" x="1078" y="509"/>
         <part name="1" x="1081" y="564"/>
         <part name="2" x="1087" y="618"/>
@@ -18146,7 +18146,7 @@
       </box>
     </image>
     <image file="051_03.jpg">
-      <box height="436" left="388" top="542" width="419">
+      <box height="419" left="542" top="388" width="436">
         <part name="0" x="567" y="429"/>
         <part name="1" x="560" y="494"/>
         <part name="2" x="558" y="560"/>
@@ -18218,7 +18218,7 @@
       </box>
     </image>
     <image file="051_04.jpg">
-      <box height="448" left="635" top="898" width="431">
+      <box height="431" left="898" top="635" width="448">
         <part name="0" x="922" y="671"/>
         <part name="1" x="912" y="737"/>
         <part name="2" x="907" y="805"/>
@@ -18290,7 +18290,7 @@
       </box>
     </image>
     <image file="051_05.jpg">
-      <box height="501" left="405" top="1129" width="529">
+      <box height="529" left="1129" top="405" width="501">
         <part name="0" x="1148" y="530"/>
         <part name="1" x="1155" y="602"/>
         <part name="2" x="1167" y="673"/>
@@ -18362,7 +18362,7 @@
       </box>
     </image>
     <image file="052_01.jpg">
-      <box height="279" left="523" top="899" width="279">
+      <box height="279" left="899" top="523" width="279">
         <part name="0" x="917" y="555"/>
         <part name="1" x="914" y="592"/>
         <part name="2" x="915" y="630"/>
@@ -18434,7 +18434,7 @@
       </box>
     </image>
     <image file="052_02.jpg">
-      <box height="279" left="565" top="347" width="255">
+      <box height="255" left="347" top="565" width="279">
         <part name="0" x="371" y="594"/>
         <part name="1" x="365" y="632"/>
         <part name="2" x="362" y="672"/>
@@ -18506,7 +18506,7 @@
       </box>
     </image>
     <image file="052_03.jpg">
-      <box height="401" left="455" top="413" width="338">
+      <box height="338" left="413" top="455" width="401">
         <part name="0" x="475" y="505"/>
         <part name="1" x="475" y="560"/>
         <part name="2" x="479" y="617"/>
@@ -18578,7 +18578,7 @@
       </box>
     </image>
     <image file="052_04.jpg">
-      <box height="190" left="809" top="671" width="201">
+      <box height="201" left="671" top="809" width="190">
         <part name="0" x="669" y="833"/>
         <part name="1" x="668" y="860"/>
         <part name="2" x="670" y="888"/>
@@ -18650,7 +18650,7 @@
       </box>
     </image>
     <image file="052_05.jpg">
-      <box height="336" left="697" top="1321" width="304">
+      <box height="304" left="1321" top="697" width="336">
         <part name="0" x="1339" y="752"/>
         <part name="1" x="1344" y="795"/>
         <part name="2" x="1354" y="839"/>
@@ -18722,7 +18722,7 @@
       </box>
     </image>
     <image file="053_01.jpg">
-      <box height="329" left="497" top="387" width="320">
+      <box height="320" left="387" top="497" width="329">
         <part name="0" x="391" y="543"/>
         <part name="1" x="393" y="592"/>
         <part name="2" x="400" y="640"/>
@@ -18794,7 +18794,7 @@
       </box>
     </image>
     <image file="053_02.jpg">
-      <box height="223" left="620" top="408" width="206">
+      <box height="206" left="408" top="620" width="223">
         <part name="0" x="428" y="646"/>
         <part name="1" x="424" y="670"/>
         <part name="2" x="423" y="695"/>
@@ -18866,7 +18866,7 @@
       </box>
     </image>
     <image file="053_03.jpg">
-      <box height="257" left="315" top="396" width="276">
+      <box height="276" left="396" top="315" width="257">
         <part name="0" x="430" y="324"/>
         <part name="1" x="416" y="355"/>
         <part name="2" x="406" y="388"/>
@@ -18938,7 +18938,7 @@
       </box>
     </image>
     <image file="053_04.jpg">
-      <box height="261" left="712" top="24" width="257">
+      <box height="257" left="24" top="712" width="261">
         <part name="0" x="39" y="795"/>
         <part name="1" x="34" y="816"/>
         <part name="2" x="34" y="840"/>
@@ -19010,7 +19010,7 @@
       </box>
     </image>
     <image file="053_05.jpg">
-      <box height="189" left="637" top="939" width="179">
+      <box height="179" left="939" top="637" width="189">
         <part name="0" x="958" y="675"/>
         <part name="1" x="954" y="694"/>
         <part name="2" x="953" y="715"/>
@@ -19082,7 +19082,7 @@
       </box>
     </image>
     <image file="054_01.jpg">
-      <box height="279" left="440" top="858" width="293">
+      <box height="293" left="858" top="440" width="279">
         <part name="0" x="859" y="490"/>
         <part name="1" x="863" y="530"/>
         <part name="2" x="871" y="570"/>
@@ -19154,7 +19154,7 @@
       </box>
     </image>
     <image file="054_02.jpg">
-      <box height="320" left="409" top="1209" width="320">
+      <box height="320" left="1209" top="409" width="320">
         <part name="0" x="1213" y="453"/>
         <part name="1" x="1217" y="501"/>
         <part name="2" x="1223" y="548"/>
@@ -19226,7 +19226,7 @@
       </box>
     </image>
     <image file="054_03.jpg">
-      <box height="401" left="624" top="1067" width="401">
+      <box height="401" left="1067" top="624" width="401">
         <part name="0" x="1065" y="707"/>
         <part name="1" x="1070" y="764"/>
         <part name="2" x="1077" y="820"/>
@@ -19298,7 +19298,7 @@
       </box>
     </image>
     <image file="054_04.jpg">
-      <box height="334" left="589" top="1331" width="303">
+      <box height="303" left="1331" top="589" width="334">
         <part name="0" x="1345" y="643"/>
         <part name="1" x="1347" y="691"/>
         <part name="2" x="1352" y="740"/>
@@ -19370,7 +19370,7 @@
       </box>
     </image>
     <image file="054_05.jpg">
-      <box height="386" left="451" top="745" width="349">
+      <box height="349" left="745" top="451" width="386">
         <part name="0" x="765" y="503"/>
         <part name="1" x="770" y="556"/>
         <part name="2" x="779" y="609"/>
@@ -19442,7 +19442,7 @@
       </box>
     </image>
     <image file="055_01.jpg">
-      <box height="368" left="649" top="905" width="320">
+      <box height="320" left="905" top="649" width="368">
         <part name="0" x="920" y="686"/>
         <part name="1" x="920" y="733"/>
         <part name="2" x="925" y="781"/>
@@ -19514,7 +19514,7 @@
       </box>
     </image>
     <image file="055_02.jpg">
-      <box height="252" left="630" top="1333" width="225">
+      <box height="225" left="1333" top="630" width="252">
         <part name="0" x="1349" y="663"/>
         <part name="1" x="1348" y="699"/>
         <part name="2" x="1349" y="736"/>
@@ -19586,7 +19586,7 @@
       </box>
     </image>
     <image file="055_03.jpg">
-      <box height="352" left="633" top="953" width="304">
+      <box height="304" left="953" top="633" width="352">
         <part name="0" x="986" y="681"/>
         <part name="1" x="991" y="728"/>
         <part name="2" x="1000" y="774"/>
@@ -19658,7 +19658,7 @@
       </box>
     </image>
     <image file="055_04.jpg">
-      <box height="336" left="729" top="953" width="316">
+      <box height="316" left="953" top="729" width="336">
         <part name="0" x="983" y="763"/>
         <part name="1" x="978" y="811"/>
         <part name="2" x="976" y="860"/>
@@ -19730,7 +19730,7 @@
       </box>
     </image>
     <image file="055_05.jpg">
-      <box height="351" left="749" top="960" width="283">
+      <box height="283" left="960" top="749" width="351">
         <part name="0" x="991" y="791"/>
         <part name="1" x="993" y="837"/>
         <part name="2" x="999" y="883"/>
@@ -19802,7 +19802,7 @@
       </box>
     </image>
     <image file="056_01.jpg">
-      <box height="336" left="681" top="729" width="320">
+      <box height="320" left="729" top="681" width="336">
         <part name="0" x="756" y="769"/>
         <part name="1" x="754" y="803"/>
         <part name="2" x="757" y="838"/>
@@ -19874,7 +19874,7 @@
       </box>
     </image>
     <image file="056_02.jpg">
-      <box height="267" left="516" top="1001" width="255">
+      <box height="255" left="1001" top="516" width="267">
         <part name="0" x="1018" y="580"/>
         <part name="1" x="1018" y="612"/>
         <part name="2" x="1020" y="644"/>
@@ -19946,7 +19946,7 @@
       </box>
     </image>
     <image file="056_03.jpg">
-      <box height="368" left="505" top="601" width="320">
+      <box height="320" left="601" top="505" width="368">
         <part name="0" x="645" y="589"/>
         <part name="1" x="645" y="627"/>
         <part name="2" x="649" y="666"/>
@@ -20018,7 +20018,7 @@
       </box>
     </image>
     <image file="056_04.jpg">
-      <box height="482" left="570" top="1229" width="455">
+      <box height="455" left="1229" top="570" width="482">
         <part name="0" x="1256" y="653"/>
         <part name="1" x="1258" y="717"/>
         <part name="2" x="1263" y="781"/>
@@ -20090,7 +20090,7 @@
       </box>
     </image>
     <image file="056_05.jpg">
-      <box height="245" left="691" top="958" width="220">
+      <box height="220" left="958" top="691" width="245">
         <part name="0" x="980" y="761"/>
         <part name="1" x="986" y="791"/>
         <part name="2" x="994" y="822"/>
@@ -20162,7 +20162,7 @@
       </box>
     </image>
     <image file="057_01.jpg">
-      <box height="223" left="454" top="1429" width="251">
+      <box height="251" left="1429" top="454" width="223">
         <part name="0" x="1428" y="479"/>
         <part name="1" x="1423" y="504"/>
         <part name="2" x="1422" y="530"/>
@@ -20234,7 +20234,7 @@
       </box>
     </image>
     <image file="057_02.jpg">
-      <box height="279" left="398" top="872" width="265">
+      <box height="265" left="872" top="398" width="279">
         <part name="0" x="870" y="434"/>
         <part name="1" x="870" y="470"/>
         <part name="2" x="873" y="506"/>
@@ -20306,7 +20306,7 @@
       </box>
     </image>
     <image file="057_03.jpg">
-      <box height="327" left="417" top="990" width="363">
+      <box height="363" left="990" top="417" width="327">
         <part name="0" x="1001" y="490"/>
         <part name="1" x="1002" y="535"/>
         <part name="2" x="1006" y="580"/>
@@ -20378,7 +20378,7 @@
       </box>
     </image>
     <image file="057_04.jpg">
-      <box height="288" left="761" top="1065" width="272">
+      <box height="272" left="1065" top="761" width="288">
         <part name="0" x="1084" y="826"/>
         <part name="1" x="1092" y="871"/>
         <part name="2" x="1104" y="915"/>
@@ -20450,7 +20450,7 @@
       </box>
     </image>
     <image file="057_05.jpg">
-      <box height="421" left="543" top="776" width="337">
+      <box height="337" left="776" top="543" width="421">
         <part name="0" x="814" y="621"/>
         <part name="1" x="825" y="668"/>
         <part name="2" x="838" y="713"/>
@@ -20522,7 +20522,7 @@
       </box>
     </image>
     <image file="058_01.jpg">
-      <box height="336" left="569" top="921" width="304">
+      <box height="304" left="921" top="569" width="336">
         <part name="0" x="950" y="633"/>
         <part name="1" x="951" y="676"/>
         <part name="2" x="956" y="718"/>
@@ -20594,7 +20594,7 @@
       </box>
     </image>
     <image file="058_02.jpg">
-      <box height="401" left="497" top="1257" width="401">
+      <box height="401" left="1257" top="497" width="401">
         <part name="0" x="1259" y="561"/>
         <part name="1" x="1265" y="627"/>
         <part name="2" x="1277" y="694"/>
@@ -20666,7 +20666,7 @@
       </box>
     </image>
     <image file="058_03.jpg">
-      <box height="243" left="460" top="1199" width="232">
+      <box height="232" left="1199" top="460" width="243">
         <part name="0" x="1205" y="496"/>
         <part name="1" x="1203" y="527"/>
         <part name="2" x="1206" y="558"/>
@@ -20738,7 +20738,7 @@
       </box>
     </image>
     <image file="058_04.jpg">
-      <box height="459" left="470" top="1003" width="423">
+      <box height="423" left="1003" top="470" width="459">
         <part name="0" x="1012" y="544"/>
         <part name="1" x="1016" y="609"/>
         <part name="2" x="1024" y="673"/>
@@ -20810,7 +20810,7 @@
       </box>
     </image>
     <image file="058_05.jpg">
-      <box height="368" left="525" top="1205" width="441">
+      <box height="441" left="1205" top="525" width="368">
         <part name="0" x="1202" y="630"/>
         <part name="1" x="1204" y="685"/>
         <part name="2" x="1210" y="741"/>
@@ -20882,7 +20882,7 @@
       </box>
     </image>
     <image file="059_01.jpg">
-      <box height="378" left="405" top="726" width="361">
+      <box height="361" left="726" top="405" width="378">
         <part name="0" x="767" y="479"/>
         <part name="1" x="768" y="525"/>
         <part name="2" x="775" y="571"/>
@@ -20954,7 +20954,7 @@
       </box>
     </image>
     <image file="059_02.jpg">
-      <box height="423" left="470" top="1113" width="423">
+      <box height="423" left="1113" top="470" width="423">
         <part name="0" x="1146" y="584"/>
         <part name="1" x="1143" y="633"/>
         <part name="2" x="1147" y="684"/>
@@ -21026,7 +21026,7 @@
       </box>
     </image>
     <image file="059_03.jpg">
-      <box height="320" left="281" top="1129" width="304">
+      <box height="304" left="1129" top="281" width="320">
         <part name="0" x="1140" y="370"/>
         <part name="1" x="1132" y="397"/>
         <part name="2" x="1130" y="429"/>
@@ -21098,7 +21098,7 @@
       </box>
     </image>
     <image file="059_04.jpg">
-      <box height="352" left="425" top="953" width="304">
+      <box height="304" left="953" top="425" width="352">
         <part name="0" x="976" y="490"/>
         <part name="1" x="979" y="532"/>
         <part name="2" x="986" y="573"/>
@@ -21170,7 +21170,7 @@
       </box>
     </image>
     <image file="059_05.jpg">
-      <box height="255" left="577" top="795" width="230">
+      <box height="230" left="795" top="577" width="255">
         <part name="0" x="805" y="630"/>
         <part name="1" x="807" y="661"/>
         <part name="2" x="813" y="690"/>
@@ -21242,7 +21242,7 @@
       </box>
     </image>
     <image file="060_01.jpg">
-      <box height="461" left="353" top="1032" width="461">
+      <box height="461" left="1032" top="353" width="461">
         <part name="0" x="1049" y="446"/>
         <part name="1" x="1052" y="510"/>
         <part name="2" x="1061" y="575"/>
@@ -21314,7 +21314,7 @@
       </box>
     </image>
     <image file="060_02.jpg">
-      <box height="380" left="518" top="645" width="401">
+      <box height="401" left="645" top="518" width="380">
         <part name="0" x="652" y="645"/>
         <part name="1" x="649" y="684"/>
         <part name="2" x="655" y="726"/>
@@ -21386,7 +21386,7 @@
       </box>
     </image>
     <image file="060_03.jpg">
-      <box height="243" left="456" top="977" width="243">
+      <box height="243" left="977" top="456" width="243">
         <part name="0" x="987" y="535"/>
         <part name="1" x="992" y="568"/>
         <part name="2" x="1001" y="600"/>
@@ -21458,7 +21458,7 @@
       </box>
     </image>
     <image file="060_04.jpg">
-      <box height="485" left="353" top="910" width="461">
+      <box height="461" left="910" top="353" width="485">
         <part name="0" x="941" y="495"/>
         <part name="1" x="948" y="553"/>
         <part name="2" x="959" y="609"/>
@@ -21530,7 +21530,7 @@
       </box>
     </image>
     <image file="060_05.jpg">
-      <box height="443" left="328" top="814" width="422">
+      <box height="422" left="814" top="328" width="443">
         <part name="0" x="848" y="405"/>
         <part name="1" x="850" y="462"/>
         <part name="2" x="857" y="518"/>
@@ -21602,7 +21602,7 @@
       </box>
     </image>
     <image file="061_01.jpg">
-      <box height="395" left="446" top="946" width="351">
+      <box height="351" left="946" top="446" width="395">
         <part name="0" x="954" y="530"/>
         <part name="1" x="955" y="582"/>
         <part name="2" x="961" y="634"/>
@@ -21674,7 +21674,7 @@
       </box>
     </image>
     <image file="061_02.jpg">
-      <box height="265" left="704" top="1443" width="279">
+      <box height="279" left="1443" top="704" width="265">
         <part name="0" x="1462" y="770"/>
         <part name="1" x="1457" y="804"/>
         <part name="2" x="1455" y="840"/>
@@ -21746,7 +21746,7 @@
       </box>
     </image>
     <image file="061_03.jpg">
-      <box height="288" left="585" top="985" width="304">
+      <box height="304" left="985" top="585" width="288">
         <part name="0" x="993" y="645"/>
         <part name="1" x="992" y="686"/>
         <part name="2" x="995" y="725"/>
@@ -21818,7 +21818,7 @@
       </box>
     </image>
     <image file="061_04.jpg">
-      <box height="388" left="425" top="1347" width="437">
+      <box height="437" left="1347" top="425" width="388">
         <part name="0" x="1352" y="536"/>
         <part name="1" x="1354" y="599"/>
         <part name="2" x="1362" y="664"/>
@@ -21890,7 +21890,7 @@
       </box>
     </image>
     <image file="061_05.jpg">
-      <box height="390" left="560" top="416" width="416">
+      <box height="416" left="416" top="560" width="390">
         <part name="0" x="427" y="658"/>
         <part name="1" x="431" y="713"/>
         <part name="2" x="437" y="768"/>
@@ -21962,7 +21962,7 @@
       </box>
     </image>
     <image file="062_01.jpg">
-      <box height="485" left="522" top="813" width="461">
+      <box height="461" left="813" top="522" width="485">
         <part name="0" x="817" y="656"/>
         <part name="1" x="824" y="721"/>
         <part name="2" x="837" y="784"/>
@@ -22034,7 +22034,7 @@
       </box>
     </image>
     <image file="062_02.jpg">
-      <box height="304" left="537" top="825" width="288">
+      <box height="288" left="825" top="537" width="304">
         <part name="0" x="827" y="575"/>
         <part name="1" x="831" y="619"/>
         <part name="2" x="838" y="662"/>
@@ -22106,7 +22106,7 @@
       </box>
     </image>
     <image file="062_03.jpg">
-      <box height="255" left="795" top="1050" width="218">
+      <box height="218" left="1050" top="795" width="255">
         <part name="0" x="1068" y="822"/>
         <part name="1" x="1065" y="854"/>
         <part name="2" x="1066" y="887"/>
@@ -22178,7 +22178,7 @@
       </box>
     </image>
     <image file="062_04.jpg">
-      <box height="304" left="617" top="937" width="288">
+      <box height="288" left="937" top="617" width="304">
         <part name="0" x="958" y="660"/>
         <part name="1" x="960" y="700"/>
         <part name="2" x="966" y="740"/>
@@ -22250,7 +22250,7 @@
       </box>
     </image>
     <image file="062_05.jpg">
-      <box height="485" left="547" top="1201" width="479">
+      <box height="479" left="1201" top="547" width="485">
         <part name="0" x="1234" y="636"/>
         <part name="1" x="1234" y="703"/>
         <part name="2" x="1237" y="771"/>
@@ -22322,7 +22322,7 @@
       </box>
     </image>
     <image file="063_01.jpg">
-      <box height="352" left="505" top="265" width="304">
+      <box height="304" left="265" top="505" width="352">
         <part name="0" x="270" y="554"/>
         <part name="1" x="275" y="598"/>
         <part name="2" x="282" y="641"/>
@@ -22394,7 +22394,7 @@
       </box>
     </image>
     <image file="063_02.jpg">
-      <box height="288" left="606" top="1251" width="281">
+      <box height="281" left="1251" top="606" width="288">
         <part name="0" x="1259" y="640"/>
         <part name="1" x="1260" y="678"/>
         <part name="2" x="1263" y="717"/>
@@ -22466,7 +22466,7 @@
       </box>
     </image>
     <image file="063_03.jpg">
-      <box height="279" left="482" top="830" width="265">
+      <box height="265" left="830" top="482" width="279">
         <part name="0" x="834" y="512"/>
         <part name="1" x="834" y="548"/>
         <part name="2" x="837" y="584"/>
@@ -22538,7 +22538,7 @@
       </box>
     </image>
     <image file="063_04.jpg">
-      <box height="509" left="425" top="619" width="461">
+      <box height="461" left="619" top="425" width="509">
         <part name="0" x="635" y="499"/>
         <part name="1" x="637" y="568"/>
         <part name="2" x="646" y="638"/>
@@ -22610,7 +22610,7 @@
       </box>
     </image>
     <image file="063_05.jpg">
-      <box height="317" left="448" top="1287" width="276">
+      <box height="276" left="1287" top="448" width="317">
         <part name="0" x="1320" y="529"/>
         <part name="1" x="1325" y="560"/>
         <part name="2" x="1335" y="591"/>
@@ -22682,7 +22682,7 @@
       </box>
     </image>
     <image file="064_01.jpg">
-      <box height="286" left="645" top="982" width="274">
+      <box height="274" left="982" top="645" width="286">
         <part name="0" x="1001" y="681"/>
         <part name="1" x="999" y="719"/>
         <part name="2" x="1002" y="758"/>
@@ -22754,7 +22754,7 @@
       </box>
     </image>
     <image file="064_02.jpg">
-      <box height="218" left="274" top="1074" width="218">
+      <box height="218" left="1074" top="274" width="218">
         <part name="0" x="1088" y="333"/>
         <part name="1" x="1085" y="355"/>
         <part name="2" x="1088" y="378"/>
@@ -22826,7 +22826,7 @@
       </box>
     </image>
     <image file="064_03.jpg">
-      <box height="460" left="349" top="1171" width="385">
+      <box height="385" left="1171" top="349" width="460">
         <part name="0" x="1214" y="426"/>
         <part name="1" x="1214" y="476"/>
         <part name="2" x="1218" y="528"/>
@@ -22898,7 +22898,7 @@
       </box>
     </image>
     <image file="064_04.jpg">
-      <box height="254" left="613" top="1164" width="240">
+      <box height="240" left="1164" top="613" width="254">
         <part name="0" x="1177" y="651"/>
         <part name="1" x="1173" y="684"/>
         <part name="2" x="1172" y="718"/>
@@ -22970,7 +22970,7 @@
       </box>
     </image>
     <image file="064_05.jpg">
-      <box height="421" left="499" top="723" width="424">
+      <box height="424" left="723" top="499" width="421">
         <part name="0" x="738" y="585"/>
         <part name="1" x="737" y="648"/>
         <part name="2" x="740" y="713"/>
@@ -23042,7 +23042,7 @@
       </box>
     </image>
     <image file="065_01.jpg">
-      <box height="386" left="543" top="727" width="386">
+      <box height="386" left="727" top="543" width="386">
         <part name="0" x="762" y="627"/>
         <part name="1" x="763" y="675"/>
         <part name="2" x="768" y="721"/>
@@ -23114,7 +23114,7 @@
       </box>
     </image>
     <image file="065_02.jpg">
-      <box height="228" left="630" top="941" width="215">
+      <box height="215" left="941" top="630" width="228">
         <part name="0" x="961" y="684"/>
         <part name="1" x="961" y="715"/>
         <part name="2" x="964" y="749"/>
@@ -23186,7 +23186,7 @@
       </box>
     </image>
     <image file="065_03.jpg">
-      <box height="344" left="567" top="522" width="346">
+      <box height="346" left="522" top="567" width="344">
         <part name="0" x="503" y="643"/>
         <part name="1" x="500" y="689"/>
         <part name="2" x="499" y="737"/>
@@ -23258,7 +23258,7 @@
       </box>
     </image>
     <image file="065_04.jpg">
-      <box height="455" left="422" top="333" width="433">
+      <box height="433" left="333" top="422" width="455">
         <part name="0" x="363" y="503"/>
         <part name="1" x="367" y="562"/>
         <part name="2" x="379" y="619"/>
@@ -23330,7 +23330,7 @@
       </box>
     </image>
     <image file="065_05.jpg">
-      <box height="320" left="509" top="319" width="276">
+      <box height="276" left="319" top="509" width="320">
         <part name="0" x="340" y="581"/>
         <part name="1" x="344" y="617"/>
         <part name="2" x="354" y="652"/>
@@ -23402,7 +23402,7 @@
       </box>
     </image>
     <image file="066_01.jpg">
-      <box height="222" left="830" top="1178" width="201">
+      <box height="201" left="1178" top="830" width="222">
         <part name="0" x="1205" y="869"/>
         <part name="1" x="1204" y="895"/>
         <part name="2" x="1206" y="921"/>
@@ -23474,7 +23474,7 @@
       </box>
     </image>
     <image file="066_02.jpg">
-      <box height="306" left="328" top="913" width="279">
+      <box height="279" left="913" top="328" width="306">
         <part name="0" x="926" y="347"/>
         <part name="1" x="920" y="384"/>
         <part name="2" x="916" y="421"/>
@@ -23546,7 +23546,7 @@
       </box>
     </image>
     <image file="066_03.jpg">
-      <box height="267" left="431" top="1026" width="218">
+      <box height="218" left="1026" top="431" width="267">
         <part name="0" x="1051" y="463"/>
         <part name="1" x="1052" y="495"/>
         <part name="2" x="1057" y="527"/>
@@ -23618,7 +23618,7 @@
       </box>
     </image>
     <image file="066_04.jpg">
-      <box height="320" left="683" top="1302" width="249">
+      <box height="249" left="1302" top="683" width="320">
         <part name="0" x="1331" y="695"/>
         <part name="1" x="1333" y="735"/>
         <part name="2" x="1339" y="775"/>
@@ -23690,7 +23690,7 @@
       </box>
     </image>
     <image file="066_05.jpg">
-      <box height="221" left="603" top="1173" width="184">
+      <box height="184" left="1173" top="603" width="221">
         <part name="0" x="1181" y="651"/>
         <part name="1" x="1184" y="676"/>
         <part name="2" x="1189" y="700"/>
@@ -23762,7 +23762,7 @@
       </box>
     </image>
     <image file="067_01.jpg">
-      <box height="279" left="732" top="830" width="265">
+      <box height="265" left="830" top="732" width="279">
         <part name="0" x="838" y="795"/>
         <part name="1" x="844" y="827"/>
         <part name="2" x="853" y="858"/>
@@ -23834,7 +23834,7 @@
       </box>
     </image>
     <image file="067_02.jpg">
-      <box height="293" left="579" top="718" width="279">
+      <box height="279" left="718" top="579" width="293">
         <part name="0" x="732" y="639"/>
         <part name="1" x="735" y="675"/>
         <part name="2" x="741" y="711"/>
@@ -23906,7 +23906,7 @@
       </box>
     </image>
     <image file="067_03.jpg">
-      <box height="368" left="672" top="1003" width="349">
+      <box height="349" left="1003" top="672" width="368">
         <part name="0" x="1033" y="746"/>
         <part name="1" x="1038" y="790"/>
         <part name="2" x="1048" y="832"/>
@@ -23978,7 +23978,7 @@
       </box>
     </image>
     <image file="067_04.jpg">
-      <box height="251" left="690" top="482" width="251">
+      <box height="251" left="482" top="690" width="251">
         <part name="0" x="488" y="759"/>
         <part name="1" x="486" y="784"/>
         <part name="2" x="488" y="811"/>
@@ -24050,7 +24050,7 @@
       </box>
     </image>
     <image file="067_05.jpg">
-      <box height="156" left="759" top="823" width="193">
+      <box height="193" left="823" top="759" width="156">
         <part name="0" x="815" y="813"/>
         <part name="1" x="815" y="833"/>
         <part name="2" x="819" y="854"/>
@@ -24122,7 +24122,7 @@
       </box>
     </image>
     <image file="068_01.jpg">
-      <box height="286" left="693" top="1118" width="247">
+      <box height="247" left="1118" top="693" width="286">
         <part name="0" x="1152" y="773"/>
         <part name="1" x="1153" y="800"/>
         <part name="2" x="1158" y="827"/>
@@ -24194,7 +24194,7 @@
       </box>
     </image>
     <image file="068_02.jpg">
-      <box height="332" left="257" top="1137" width="298">
+      <box height="298" left="1137" top="257" width="332">
         <part name="0" x="1171" y="377"/>
         <part name="1" x="1176" y="415"/>
         <part name="2" x="1186" y="453"/>
@@ -24266,7 +24266,7 @@
       </box>
     </image>
     <image file="068_03.jpg">
-      <box height="412" left="522" top="547" width="461">
+      <box height="461" left="547" top="522" width="412">
         <part name="0" x="544" y="659"/>
         <part name="1" x="539" y="700"/>
         <part name="2" x="542" y="745"/>
@@ -24338,7 +24338,7 @@
       </box>
     </image>
     <image file="068_04.jpg">
-      <box height="386" left="396" top="1039" width="368">
+      <box height="368" left="1039" top="396" width="386">
         <part name="0" x="1092" y="451"/>
         <part name="1" x="1090" y="497"/>
         <part name="2" x="1092" y="542"/>
@@ -24410,7 +24410,7 @@
       </box>
     </image>
     <image file="068_05.jpg">
-      <box height="303" left="749" top="1174" width="276">
+      <box height="276" left="1174" top="749" width="303">
         <part name="0" x="1180" y="822"/>
         <part name="1" x="1184" y="861"/>
         <part name="2" x="1191" y="898"/>
@@ -24482,7 +24482,7 @@
       </box>
     </image>
     <image file="069_01.jpg">
-      <box height="232" left="682" top="925" width="201">
+      <box height="201" left="925" top="682" width="232">
         <part name="0" x="941" y="751"/>
         <part name="1" x="942" y="776"/>
         <part name="2" x="947" y="801"/>
@@ -24554,7 +24554,7 @@
       </box>
     </image>
     <image file="069_02.jpg">
-      <box height="293" left="384" top="1067" width="251">
+      <box height="251" left="1067" top="384" width="293">
         <part name="0" x="1083" y="447"/>
         <part name="1" x="1087" y="482"/>
         <part name="2" x="1093" y="517"/>
@@ -24626,7 +24626,7 @@
       </box>
     </image>
     <image file="069_03.jpg">
-      <box height="352" left="569" top="1113" width="352">
+      <box height="352" left="1113" top="569" width="352">
         <part name="0" x="1098" y="656"/>
         <part name="1" x="1100" y="703"/>
         <part name="2" x="1107" y="748"/>
@@ -24698,7 +24698,7 @@
       </box>
     </image>
     <image file="069_04.jpg">
-      <box height="401" left="476" top="1194" width="401">
+      <box height="401" left="1194" top="476" width="401">
         <part name="0" x="1177" y="567"/>
         <part name="1" x="1177" y="622"/>
         <part name="2" x="1182" y="676"/>
@@ -24770,7 +24770,7 @@
       </box>
     </image>
     <image file="069_05.jpg">
-      <box height="201" left="619" top="999" width="211">
+      <box height="211" left="999" top="619" width="201">
         <part name="0" x="997" y="686"/>
         <part name="1" x="994" y="709"/>
         <part name="2" x="994" y="732"/>
@@ -24842,7 +24842,7 @@
       </box>
     </image>
     <image file="070_01.jpg">
-      <box height="255" left="468" top="1026" width="230">
+      <box height="230" left="1026" top="468" width="255">
         <part name="0" x="1045" y="510"/>
         <part name="1" x="1050" y="544"/>
         <part name="2" x="1056" y="577"/>
@@ -24914,7 +24914,7 @@
       </box>
     </image>
     <image file="070_02.jpg">
-      <box height="352" left="649" top="777" width="272">
+      <box height="272" left="777" top="649" width="352">
         <part name="0" x="811" y="705"/>
         <part name="1" x="814" y="741"/>
         <part name="2" x="820" y="777"/>
@@ -24986,7 +24986,7 @@
       </box>
     </image>
     <image file="070_03.jpg">
-      <box height="404" left="470" top="948" width="368">
+      <box height="368" left="948" top="470" width="404">
         <part name="0" x="978" y="542"/>
         <part name="1" x="977" y="591"/>
         <part name="2" x="979" y="641"/>
@@ -25058,7 +25058,7 @@
       </box>
     </image>
     <image file="070_04.jpg">
-      <box height="485" left="425" top="789" width="437">
+      <box height="437" left="789" top="425" width="485">
         <part name="0" x="814" y="565"/>
         <part name="1" x="821" y="620"/>
         <part name="2" x="833" y="673"/>
@@ -25130,7 +25130,7 @@
       </box>
     </image>
     <image file="070_05.jpg">
-      <box height="390" left="548" top="1207" width="327">
+      <box height="327" left="1207" top="548" width="390">
         <part name="0" x="1240" y="598"/>
         <part name="1" x="1242" y="646"/>
         <part name="2" x="1248" y="694"/>
@@ -25202,7 +25202,7 @@
       </box>
     </image>
     <image file="071_01.jpg">
-      <box height="422" left="560" top="919" width="443">
+      <box height="443" left="919" top="560" width="422">
         <part name="0" x="936" y="660"/>
         <part name="1" x="940" y="719"/>
         <part name="2" x="949" y="779"/>
@@ -25274,7 +25274,7 @@
       </box>
     </image>
     <image file="071_02.jpg">
-      <box height="320" left="585" top="857" width="304">
+      <box height="304" left="857" top="585" width="320">
         <part name="0" x="865" y="640"/>
         <part name="1" x="866" y="683"/>
         <part name="2" x="871" y="727"/>
@@ -25346,7 +25346,7 @@
       </box>
     </image>
     <image file="071_03.jpg">
-      <box height="222" left="418" top="1104" width="211">
+      <box height="211" left="1104" top="418" width="222">
         <part name="0" x="1120" y="444"/>
         <part name="1" x="1120" y="474"/>
         <part name="2" x="1122" y="505"/>
@@ -25418,7 +25418,7 @@
       </box>
     </image>
     <image file="071_04.jpg">
-      <box height="304" left="489" top="1081" width="288">
+      <box height="288" left="1081" top="489" width="304">
         <part name="0" x="1100" y="539"/>
         <part name="1" x="1102" y="578"/>
         <part name="2" x="1106" y="616"/>
@@ -25490,7 +25490,7 @@
       </box>
     </image>
     <image file="071_05.jpg">
-      <box height="206" left="528" top="1171" width="206">
+      <box height="206" left="1171" top="528" width="206">
         <part name="0" x="1182" y="584"/>
         <part name="1" x="1180" y="605"/>
         <part name="2" x="1182" y="627"/>
@@ -25562,7 +25562,7 @@
       </box>
     </image>
     <image file="072_01.jpg">
-      <box height="384" left="361" top="217" width="304">
+      <box height="304" left="217" top="361" width="384">
         <part name="0" x="245" y="398"/>
         <part name="1" x="252" y="441"/>
         <part name="2" x="263" y="484"/>
@@ -25634,7 +25634,7 @@
       </box>
     </image>
     <image file="072_02.jpg">
-      <box height="267" left="759" top="674" width="243">
+      <box height="243" left="674" top="759" width="267">
         <part name="0" x="684" y="790"/>
         <part name="1" x="685" y="825"/>
         <part name="2" x="689" y="858"/>
@@ -25706,7 +25706,7 @@
       </box>
     </image>
     <image file="072_03.jpg">
-      <box height="232" left="418" top="1062" width="222">
+      <box height="222" left="1062" top="418" width="232">
         <part name="0" x="1081" y="474"/>
         <part name="1" x="1084" y="502"/>
         <part name="2" x="1088" y="530"/>
@@ -25778,7 +25778,7 @@
       </box>
     </image>
     <image file="072_04.jpg">
-      <box height="401" left="624" top="1067" width="401">
+      <box height="401" left="1067" top="624" width="401">
         <part name="0" x="1045" y="730"/>
         <part name="1" x="1054" y="788"/>
         <part name="2" x="1070" y="845"/>
@@ -25850,7 +25850,7 @@
       </box>
     </image>
     <image file="072_05.jpg">
-      <box height="426" left="548" top="960" width="419">
+      <box height="419" left="960" top="548" width="426">
         <part name="0" x="949" y="718"/>
         <part name="1" x="963" y="779"/>
         <part name="2" x="981" y="840"/>
@@ -25922,7 +25922,7 @@
       </box>
     </image>
     <image file="073_01.jpg">
-      <box height="201" left="587" top="1125" width="201">
+      <box height="201" left="1125" top="587" width="201">
         <part name="0" x="1126" y="642"/>
         <part name="1" x="1123" y="661"/>
         <part name="2" x="1124" y="683"/>
@@ -25994,7 +25994,7 @@
       </box>
     </image>
     <image file="073_02.jpg">
-      <box height="230" left="686" top="553" width="206">
+      <box height="206" left="553" top="686" width="230">
         <part name="0" x="568" y="728"/>
         <part name="1" x="567" y="749"/>
         <part name="2" x="570" y="771"/>
@@ -26066,7 +26066,7 @@
       </box>
     </image>
     <image file="073_03.jpg">
-      <box height="336" left="361" top="1321" width="304">
+      <box height="304" left="1321" top="361" width="336">
         <part name="0" x="1334" y="432"/>
         <part name="1" x="1337" y="476"/>
         <part name="2" x="1343" y="519"/>
@@ -26138,7 +26138,7 @@
       </box>
     </image>
     <image file="073_04.jpg">
-      <box height="201" left="830" top="977" width="201">
+      <box height="201" left="977" top="830" width="201">
         <part name="0" x="975" y="866"/>
         <part name="1" x="977" y="893"/>
         <part name="2" x="982" y="920"/>
@@ -26210,7 +26210,7 @@
       </box>
     </image>
     <image file="073_05.jpg">
-      <box height="211" left="658" top="759" width="175">
+      <box height="175" left="759" top="658" width="211">
         <part name="0" x="776" y="692"/>
         <part name="1" x="777" y="713"/>
         <part name="2" x="780" y="735"/>
@@ -26282,7 +26282,7 @@
       </box>
     </image>
     <image file="074_01.jpg">
-      <box height="179" left="577" top="1040" width="174">
+      <box height="174" left="1040" top="577" width="179">
         <part name="0" x="1042" y="604"/>
         <part name="1" x="1041" y="629"/>
         <part name="2" x="1041" y="653"/>
@@ -26354,7 +26354,7 @@
       </box>
     </image>
     <image file="074_02.jpg">
-      <box height="399" left="475" top="822" width="310">
+      <box height="310" left="822" top="475" width="399">
         <part name="0" x="870" y="535"/>
         <part name="1" x="875" y="581"/>
         <part name="2" x="883" y="626"/>
@@ -26426,7 +26426,7 @@
       </box>
     </image>
     <image file="074_03.jpg">
-      <box height="288" left="729" top="617" width="304">
+      <box height="304" left="617" top="729" width="288">
         <part name="0" x="614" y="797"/>
         <part name="1" x="620" y="839"/>
         <part name="2" x="630" y="882"/>
@@ -26498,7 +26498,7 @@
       </box>
     </image>
     <image file="074_04.jpg">
-      <box height="237" left="662" top="1435" width="257">
+      <box height="257" left="1435" top="662" width="237">
         <part name="0" x="1441" y="676"/>
         <part name="1" x="1435" y="709"/>
         <part name="2" x="1433" y="742"/>
@@ -26570,7 +26570,7 @@
       </box>
     </image>
     <image file="074_05.jpg">
-      <box height="322" left="640" top="442" width="278">
+      <box height="278" left="442" top="640" width="322">
         <part name="0" x="472" y="714"/>
         <part name="1" x="481" y="754"/>
         <part name="2" x="493" y="791"/>
@@ -26642,7 +26642,7 @@
       </box>
     </image>
     <image file="075_01.jpg">
-      <box height="349" left="267" top="819" width="349">
+      <box height="349" left="819" top="267" width="349">
         <part name="0" x="825" y="407"/>
         <part name="1" x="839" y="454"/>
         <part name="2" x="856" y="500"/>
@@ -26714,7 +26714,7 @@
       </box>
     </image>
     <image file="075_02.jpg">
-      <box height="243" left="613" top="989" width="243">
+      <box height="243" left="989" top="613" width="243">
         <part name="0" x="1004" y="653"/>
         <part name="1" x="1003" y="685"/>
         <part name="2" x="1006" y="718"/>
@@ -26786,7 +26786,7 @@
       </box>
     </image>
     <image file="075_03.jpg">
-      <box height="243" left="431" top="1329" width="267">
+      <box height="267" left="1329" top="431" width="243">
         <part name="0" x="1325" y="459"/>
         <part name="1" x="1321" y="491"/>
         <part name="2" x="1320" y="525"/>
@@ -26858,7 +26858,7 @@
       </box>
     </image>
     <image file="075_04.jpg">
-      <box height="251" left="565" top="899" width="293">
+      <box height="293" left="899" top="565" width="251">
         <part name="0" x="882" y="603"/>
         <part name="1" x="878" y="642"/>
         <part name="2" x="878" y="681"/>
@@ -26930,7 +26930,7 @@
       </box>
     </image>
     <image file="075_05.jpg">
-      <box height="201" left="534" top="1051" width="201">
+      <box height="201" left="1051" top="534" width="201">
         <part name="0" x="1051" y="567"/>
         <part name="1" x="1049" y="593"/>
         <part name="2" x="1050" y="619"/>
@@ -27002,7 +27002,7 @@
       </box>
     </image>
     <image file="076_01.jpg">
-      <box height="249" left="589" top="975" width="249">
+      <box height="249" left="975" top="589" width="249">
         <part name="0" x="977" y="647"/>
         <part name="1" x="979" y="679"/>
         <part name="2" x="983" y="710"/>
@@ -27074,7 +27074,7 @@
       </box>
     </image>
     <image file="076_02.jpg">
-      <box height="243" left="444" top="1317" width="230">
+      <box height="230" left="1317" top="444" width="243">
         <part name="0" x="1313" y="489"/>
         <part name="1" x="1315" y="520"/>
         <part name="2" x="1319" y="552"/>
@@ -27146,7 +27146,7 @@
       </box>
     </image>
     <image file="076_03.jpg">
-      <box height="235" left="623" top="563" width="240">
+      <box height="240" left="563" top="623" width="235">
         <part name="0" x="569" y="681"/>
         <part name="1" x="570" y="711"/>
         <part name="2" x="574" y="741"/>
@@ -27218,7 +27218,7 @@
       </box>
     </image>
     <image file="076_04.jpg">
-      <box height="293" left="621" top="523" width="279">
+      <box height="279" left="523" top="621" width="293">
         <part name="0" x="521" y="691"/>
         <part name="1" x="524" y="728"/>
         <part name="2" x="530" y="765"/>
@@ -27290,7 +27290,7 @@
       </box>
     </image>
     <image file="076_05.jpg">
-      <box height="352" left="521" top="761" width="336">
+      <box height="336" left="761" top="521" width="352">
         <part name="0" x="763" y="582"/>
         <part name="1" x="766" y="627"/>
         <part name="2" x="773" y="672"/>
@@ -27362,7 +27362,7 @@
       </box>
     </image>
     <image file="077_01.jpg">
-      <box height="291" left="528" top="807" width="206">
+      <box height="206" left="807" top="528" width="291">
         <part name="0" x="839" y="583"/>
         <part name="1" x="838" y="612"/>
         <part name="2" x="841" y="641"/>
@@ -27434,7 +27434,7 @@
       </box>
     </image>
     <image file="077_02.jpg">
-      <box height="240" left="441" top="985" width="272">
+      <box height="272" left="985" top="441" width="240">
         <part name="0" x="1001" y="545"/>
         <part name="1" x="1000" y="567"/>
         <part name="2" x="1004" y="590"/>
@@ -27506,7 +27506,7 @@
       </box>
     </image>
     <image file="077_03.jpg">
-      <box height="306" left="440" top="830" width="251">
+      <box height="251" left="830" top="440" width="306">
         <part name="0" x="875" y="498"/>
         <part name="1" x="876" y="534"/>
         <part name="2" x="882" y="568"/>
@@ -27578,7 +27578,7 @@
       </box>
     </image>
     <image file="077_04.jpg">
-      <box height="261" left="424" top="249" width="271">
+      <box height="271" left="249" top="424" width="261">
         <part name="0" x="278" y="488"/>
         <part name="1" x="275" y="513"/>
         <part name="2" x="274" y="540"/>
@@ -27650,7 +27650,7 @@
       </box>
     </image>
     <image file="077_05.jpg">
-      <box height="303" left="298" top="844" width="255">
+      <box height="255" left="844" top="298" width="303">
         <part name="0" x="870" y="365"/>
         <part name="1" x="870" y="397"/>
         <part name="2" x="872" y="430"/>
@@ -27722,7 +27722,7 @@
       </box>
     </image>
     <image file="078_01.jpg">
-      <box height="288" left="457" top="985" width="288">
+      <box height="288" left="985" top="457" width="288">
         <part name="0" x="988" y="540"/>
         <part name="1" x="990" y="578"/>
         <part name="2" x="997" y="616"/>
@@ -27794,7 +27794,7 @@
       </box>
     </image>
     <image file="078_02.jpg">
-      <box height="368" left="521" top="809" width="320">
+      <box height="320" left="809" top="521" width="368">
         <part name="0" x="841" y="613"/>
         <part name="1" x="845" y="656"/>
         <part name="2" x="852" y="697"/>
@@ -27866,7 +27866,7 @@
       </box>
     </image>
     <image file="078_03.jpg">
-      <box height="211" left="682" top="840" width="211">
+      <box height="211" left="840" top="682" width="211">
         <part name="0" x="839" y="764"/>
         <part name="1" x="840" y="787"/>
         <part name="2" x="843" y="810"/>
@@ -27938,7 +27938,7 @@
       </box>
     </image>
     <image file="078_04.jpg">
-      <box height="373" left="475" top="968" width="344">
+      <box height="344" left="968" top="475" width="373">
         <part name="0" x="992" y="567"/>
         <part name="1" x="999" y="613"/>
         <part name="2" x="1011" y="657"/>
@@ -28010,7 +28010,7 @@
       </box>
     </image>
     <image file="078_05.jpg">
-      <box height="368" left="598" top="984" width="349">
+      <box height="349" left="984" top="598" width="368">
         <part name="0" x="1005" y="634"/>
         <part name="1" x="997" y="682"/>
         <part name="2" x="995" y="730"/>
@@ -28082,7 +28082,7 @@
       </box>
     </image>
     <image file="079_01.jpg">
-      <box height="222" left="502" top="661" width="211">
+      <box height="211" left="661" top="502" width="222">
         <part name="0" x="681" y="551"/>
         <part name="1" x="683" y="577"/>
         <part name="2" x="688" y="602"/>
@@ -28154,7 +28154,7 @@
       </box>
     </image>
     <image file="079_02.jpg">
-      <box height="278" left="395" top="1132" width="276">
+      <box height="276" left="1132" top="395" width="278">
         <part name="0" x="1162" y="472"/>
         <part name="1" x="1162" y="508"/>
         <part name="2" x="1167" y="546"/>
@@ -28226,7 +28226,7 @@
       </box>
     </image>
     <image file="079_03.jpg">
-      <box height="349" left="543" top="525" width="349">
+      <box height="349" left="525" top="543" width="349">
         <part name="0" x="510" y="626"/>
         <part name="1" x="519" y="676"/>
         <part name="2" x="532" y="726"/>
@@ -28298,7 +28298,7 @@
       </box>
     </image>
     <image file="079_04.jpg">
-      <box height="272" left="585" top="425" width="304">
+      <box height="304" left="425" top="585" width="272">
         <part name="0" x="420" y="678"/>
         <part name="1" x="427" y="721"/>
         <part name="2" x="439" y="764"/>
@@ -28370,7 +28370,7 @@
       </box>
     </image>
     <image file="079_05.jpg">
-      <box height="267" left="395" top="1147" width="230">
+      <box height="230" left="1147" top="395" width="267">
         <part name="0" x="1153" y="449"/>
         <part name="1" x="1159" y="484"/>
         <part name="2" x="1168" y="517"/>
@@ -28442,7 +28442,7 @@
       </box>
     </image>
     <image file="080_01.jpg">
-      <box height="201" left="640" top="798" width="222">
+      <box height="222" left="798" top="640" width="201">
         <part name="0" x="804" y="707"/>
         <part name="1" x="808" y="731"/>
         <part name="2" x="815" y="755"/>
@@ -28514,7 +28514,7 @@
       </box>
     </image>
     <image file="080_02.jpg">
-      <box height="320" left="345" top="201" width="320">
+      <box height="320" left="201" top="345" width="320">
         <part name="0" x="235" y="463"/>
         <part name="1" x="238" y="496"/>
         <part name="2" x="248" y="528"/>
@@ -28586,7 +28586,7 @@
       </box>
     </image>
     <image file="080_03.jpg">
-      <box height="380" left="455" top="835" width="380">
+      <box height="380" left="835" top="455" width="380">
         <part name="0" x="858" y="535"/>
         <part name="1" x="856" y="584"/>
         <part name="2" x="860" y="635"/>
@@ -28658,7 +28658,7 @@
       </box>
     </image>
     <image file="080_04.jpg">
-      <box height="291" left="562" top="743" width="274">
+      <box height="274" left="743" top="562" width="291">
         <part name="0" x="770" y="648"/>
         <part name="1" x="774" y="680"/>
         <part name="2" x="784" y="712"/>
@@ -28730,7 +28730,7 @@
       </box>
     </image>
     <image file="080_05.jpg">
-      <box height="190" left="302" top="956" width="190">
+      <box height="190" left="956" top="302" width="190">
         <part name="0" x="957" y="348"/>
         <part name="1" x="956" y="369"/>
         <part name="2" x="958" y="390"/>
@@ -28802,7 +28802,7 @@
       </box>
     </image>
     <image file="081_01.jpg">
-      <box height="386" left="562" top="470" width="404">
+      <box height="404" left="470" top="562" width="386">
         <part name="0" x="440" y="712"/>
         <part name="1" x="451" y="763"/>
         <part name="2" x="466" y="815"/>
@@ -28874,7 +28874,7 @@
       </box>
     </image>
     <image file="081_02.jpg">
-      <box height="443" left="455" top="772" width="422">
+      <box height="422" left="772" top="455" width="443">
         <part name="0" x="785" y="610"/>
         <part name="1" x="788" y="665"/>
         <part name="2" x="795" y="721"/>
@@ -28946,7 +28946,7 @@
       </box>
     </image>
     <image file="081_03.jpg">
-      <box height="401" left="455" top="919" width="464">
+      <box height="464" left="919" top="455" width="401">
         <part name="0" x="887" y="593"/>
         <part name="1" x="889" y="650"/>
         <part name="2" x="898" y="707"/>
@@ -29018,7 +29018,7 @@
       </box>
     </image>
     <image file="081_04.jpg">
-      <box height="255" left="613" top="916" width="255">
+      <box height="255" left="916" top="613" width="255">
         <part name="0" x="923" y="682"/>
         <part name="1" x="926" y="715"/>
         <part name="2" x="931" y="749"/>
@@ -29090,7 +29090,7 @@
       </box>
     </image>
     <image file="081_05.jpg">
-      <box height="315" left="419" top="789" width="288">
+      <box height="288" left="789" top="419" width="315">
         <part name="0" x="804" y="497"/>
         <part name="1" x="808" y="542"/>
         <part name="2" x="817" y="587"/>
@@ -29162,7 +29162,7 @@
       </box>
     </image>
     <image file="082_01.jpg">
-      <box height="228" left="492" top="1263" width="257">
+      <box height="257" left="1263" top="492" width="228">
         <part name="0" x="1286" y="543"/>
         <part name="1" x="1288" y="575"/>
         <part name="2" x="1294" y="607"/>
@@ -29234,7 +29234,7 @@
       </box>
     </image>
     <image file="082_02.jpg">
-      <box height="249" left="635" top="861" width="276">
+      <box height="276" left="861" top="635" width="249">
         <part name="0" x="867" y="692"/>
         <part name="1" x="868" y="724"/>
         <part name="2" x="871" y="755"/>
@@ -29306,7 +29306,7 @@
       </box>
     </image>
     <image file="082_03.jpg">
-      <box height="419" left="531" top="1014" width="462">
+      <box height="462" left="1014" top="531" width="419">
         <part name="0" x="1041" y="620"/>
         <part name="1" x="1048" y="682"/>
         <part name="2" x="1060" y="743"/>
@@ -29378,7 +29378,7 @@
       </box>
     </image>
     <image file="082_04.jpg">
-      <box height="380" left="354" top="1237" width="395">
+      <box height="395" left="1237" top="354" width="380">
         <part name="0" x="1271" y="414"/>
         <part name="1" x="1273" y="467"/>
         <part name="2" x="1280" y="520"/>
@@ -29450,7 +29450,7 @@
       </box>
     </image>
     <image file="082_05.jpg">
-      <box height="242" left="509" top="1096" width="259">
+      <box height="259" left="1096" top="509" width="242">
         <part name="0" x="1107" y="549"/>
         <part name="1" x="1107" y="580"/>
         <part name="2" x="1109" y="613"/>
@@ -29522,7 +29522,7 @@
       </box>
     </image>
     <image file="083_01.jpg">
-      <box height="336" left="505" top="1177" width="272">
+      <box height="272" left="1177" top="505" width="336">
         <part name="0" x="1207" y="545"/>
         <part name="1" x="1209" y="585"/>
         <part name="2" x="1214" y="626"/>
@@ -29594,7 +29594,7 @@
       </box>
     </image>
     <image file="083_02.jpg">
-      <box height="306" left="495" top="844" width="279">
+      <box height="279" left="844" top="495" width="306">
         <part name="0" x="879" y="563"/>
         <part name="1" x="877" y="596"/>
         <part name="2" x="877" y="629"/>
@@ -29666,7 +29666,7 @@
       </box>
     </image>
     <image file="083_03.jpg">
-      <box height="352" left="553" top="1081" width="336">
+      <box height="336" left="1081" top="553" width="352">
         <part name="0" x="1088" y="625"/>
         <part name="1" x="1093" y="671"/>
         <part name="2" x="1100" y="716"/>
@@ -29738,7 +29738,7 @@
       </box>
     </image>
     <image file="083_04.jpg">
-      <box height="464" left="476" top="1088" width="443">
+      <box height="443" left="1088" top="476" width="464">
         <part name="0" x="1101" y="569"/>
         <part name="1" x="1105" y="634"/>
         <part name="2" x="1112" y="699"/>
@@ -29810,7 +29810,7 @@
       </box>
     </image>
     <image file="083_05.jpg">
-      <box height="331" left="433" top="1021" width="294">
+      <box height="294" left="1021" top="433" width="331">
         <part name="0" x="1039" y="492"/>
         <part name="1" x="1043" y="533"/>
         <part name="2" x="1049" y="572"/>
@@ -29882,7 +29882,7 @@
       </box>
     </image>
     <image file="084_01.jpg">
-      <box height="255" left="528" top="916" width="267">
+      <box height="267" left="916" top="528" width="255">
         <part name="0" x="922" y="595"/>
         <part name="1" x="927" y="628"/>
         <part name="2" x="936" y="660"/>
@@ -29954,7 +29954,7 @@
       </box>
     </image>
     <image file="084_02.jpg">
-      <box height="251" left="551" top="941" width="265">
+      <box height="265" left="941" top="551" width="251">
         <part name="0" x="942" y="624"/>
         <part name="1" x="949" y="659"/>
         <part name="2" x="960" y="694"/>
@@ -30026,7 +30026,7 @@
       </box>
     </image>
     <image file="084_03.jpg">
-      <box height="558" left="498" top="1032" width="461">
+      <box height="461" left="1032" top="498" width="558">
         <part name="0" x="1052" y="536"/>
         <part name="1" x="1053" y="611"/>
         <part name="2" x="1061" y="687"/>
@@ -30098,7 +30098,7 @@
       </box>
     </image>
     <image file="084_04.jpg">
-      <box height="177" left="570" top="711" width="196">
+      <box height="196" left="711" top="570" width="177">
         <part name="0" x="726" y="574"/>
         <part name="1" x="721" y="596"/>
         <part name="2" x="719" y="618"/>
@@ -30170,7 +30170,7 @@
       </box>
     </image>
     <image file="084_05.jpg">
-      <box height="288" left="553" top="105" width="288">
+      <box height="288" left="105" top="553" width="288">
         <part name="0" x="115" y="629"/>
         <part name="1" x="112" y="656"/>
         <part name="2" x="114" y="685"/>
@@ -30242,7 +30242,7 @@
       </box>
     </image>
     <image file="085_01.jpg">
-      <box height="222" left="576" top="260" width="201">
+      <box height="201" left="260" top="576" width="222">
         <part name="0" x="278" y="604"/>
         <part name="1" x="277" y="630"/>
         <part name="2" x="278" y="656"/>
@@ -30314,7 +30314,7 @@
       </box>
     </image>
     <image file="085_02.jpg">
-      <box height="336" left="505" top="1081" width="320">
+      <box height="320" left="1081" top="505" width="336">
         <part name="0" x="1105" y="598"/>
         <part name="1" x="1107" y="636"/>
         <part name="2" x="1112" y="674"/>
@@ -30386,7 +30386,7 @@
       </box>
     </image>
     <image file="085_03.jpg">
-      <box height="259" left="608" top="178" width="247">
+      <box height="247" left="178" top="608" width="259">
         <part name="0" x="194" y="653"/>
         <part name="1" x="196" y="686"/>
         <part name="2" x="201" y="719"/>
@@ -30458,7 +30458,7 @@
       </box>
     </image>
     <image file="085_04.jpg">
-      <box height="445" left="497" top="900" width="373">
+      <box height="373" left="900" top="497" width="445">
         <part name="0" x="944" y="518"/>
         <part name="1" x="937" y="575"/>
         <part name="2" x="933" y="634"/>
@@ -30530,7 +30530,7 @@
       </box>
     </image>
     <image file="085_05.jpg">
-      <box height="485" left="450" top="838" width="437">
+      <box height="437" left="838" top="450" width="485">
         <part name="0" x="861" y="495"/>
         <part name="1" x="861" y="561"/>
         <part name="2" x="867" y="626"/>
@@ -30602,7 +30602,7 @@
       </box>
     </image>
     <image file="086_01.jpg">
-      <box height="361" left="652" top="835" width="370">
+      <box height="370" left="835" top="652" width="361">
         <part name="0" x="848" y="719"/>
         <part name="1" x="846" y="757"/>
         <part name="2" x="847" y="796"/>
@@ -30674,7 +30674,7 @@
       </box>
     </image>
     <image file="086_02.jpg">
-      <box height="317" left="710" top="634" width="327">
+      <box height="327" left="634" top="710" width="317">
         <part name="0" x="691" y="822"/>
         <part name="1" x="691" y="849"/>
         <part name="2" x="697" y="877"/>
@@ -30746,7 +30746,7 @@
       </box>
     </image>
     <image file="086_03.jpg">
-      <box height="223" left="553" top="1413" width="237">
+      <box height="237" left="1413" top="553" width="223">
         <part name="0" x="1429" y="616"/>
         <part name="1" x="1430" y="645"/>
         <part name="2" x="1431" y="673"/>
@@ -30818,7 +30818,7 @@
       </box>
     </image>
     <image file="086_04.jpg">
-      <box height="373" left="613" top="1060" width="353">
+      <box height="353" left="1060" top="613" width="373">
         <part name="0" x="1085" y="709"/>
         <part name="1" x="1090" y="759"/>
         <part name="2" x="1099" y="809"/>
@@ -30890,7 +30890,7 @@
       </box>
     </image>
     <image file="086_05.jpg">
-      <box height="259" left="761" top="1152" width="215">
+      <box height="215" left="1152" top="761" width="259">
         <part name="0" x="1182" y="808"/>
         <part name="1" x="1183" y="840"/>
         <part name="2" x="1185" y="873"/>
@@ -30962,7 +30962,7 @@
       </box>
     </image>
     <image file="087_01.jpg">
-      <box height="404" left="543" top="892" width="386">
+      <box height="386" left="892" top="543" width="404">
         <part name="0" x="903" y="619"/>
         <part name="1" x="911" y="674"/>
         <part name="2" x="924" y="729"/>
@@ -31034,7 +31034,7 @@
       </box>
     </image>
     <image file="087_02.jpg">
-      <box height="422" left="666" top="940" width="371">
+      <box height="371" left="940" top="666" width="422">
         <part name="0" x="967" y="707"/>
         <part name="1" x="970" y="764"/>
         <part name="2" x="981" y="819"/>
@@ -31106,7 +31106,7 @@
       </box>
     </image>
     <image file="087_03.jpg">
-      <box height="341" left="480" top="914" width="337">
+      <box height="337" left="914" top="480" width="341">
         <part name="0" x="921" y="536"/>
         <part name="1" x="923" y="583"/>
         <part name="2" x="931" y="630"/>
@@ -31178,7 +31178,7 @@
       </box>
     </image>
     <image file="087_04.jpg">
-      <box height="222" left="545" top="745" width="222">
+      <box height="222" left="745" top="545" width="222">
         <part name="0" x="772" y="583"/>
         <part name="1" x="771" y="608"/>
         <part name="2" x="774" y="633"/>
@@ -31250,7 +31250,7 @@
       </box>
     </image>
     <image file="087_05.jpg">
-      <box height="446" left="405" top="934" width="501">
+      <box height="501" left="934" top="405" width="446">
         <part name="0" x="925" y="550"/>
         <part name="1" x="920" y="597"/>
         <part name="2" x="927" y="648"/>
@@ -31322,7 +31322,7 @@
       </box>
     </image>
     <image file="088_01.jpg">
-      <box height="534" left="474" top="1274" width="534">
+      <box height="534" left="1274" top="474" width="534">
         <part name="0" x="1290" y="568"/>
         <part name="1" x="1286" y="643"/>
         <part name="2" x="1288" y="718"/>
@@ -31394,7 +31394,7 @@
       </box>
     </image>
     <image file="088_02.jpg">
-      <box height="315" left="579" top="750" width="286">
+      <box height="286" left="750" top="579" width="315">
         <part name="0" x="772" y="613"/>
         <part name="1" x="772" y="656"/>
         <part name="2" x="776" y="698"/>
@@ -31466,7 +31466,7 @@
       </box>
     </image>
     <image file="088_03.jpg">
-      <box height="441" left="369" top="965" width="416">
+      <box height="416" left="965" top="369" width="441">
         <part name="0" x="990" y="419"/>
         <part name="1" x="987" y="479"/>
         <part name="2" x="990" y="540"/>
@@ -31538,7 +31538,7 @@
       </box>
     </image>
     <image file="088_04.jpg">
-      <box height="349" left="488" top="617" width="331">
+      <box height="331" left="617" top="488" width="349">
         <part name="0" x="623" y="563"/>
         <part name="1" x="626" y="614"/>
         <part name="2" x="633" y="664"/>
@@ -31610,7 +31610,7 @@
       </box>
     </image>
     <image file="088_05.jpg">
-      <box height="368" left="562" top="856" width="368">
+      <box height="368" left="856" top="562" width="368">
         <part name="0" x="880" y="613"/>
         <part name="1" x="876" y="663"/>
         <part name="2" x="876" y="714"/>
@@ -31682,7 +31682,7 @@
       </box>
     </image>
     <image file="089_01.jpg">
-      <box height="380" left="395" top="1261" width="370">
+      <box height="370" left="1261" top="395" width="380">
         <part name="0" x="1277" y="509"/>
         <part name="1" x="1284" y="558"/>
         <part name="2" x="1294" y="606"/>
@@ -31754,7 +31754,7 @@
       </box>
     </image>
     <image file="089_02.jpg">
-      <box height="349" left="598" top="984" width="349">
+      <box height="349" left="984" top="598" width="349">
         <part name="0" x="983" y="709"/>
         <part name="1" x="992" y="754"/>
         <part name="2" x="1006" y="798"/>
@@ -31826,7 +31826,7 @@
       </box>
     </image>
     <image file="089_03.jpg">
-      <box height="359" left="223" top="223" width="401">
+      <box height="401" left="223" top="223" width="359">
         <part name="0" x="201" y="348"/>
         <part name="1" x="204" y="399"/>
         <part name="2" x="212" y="448"/>
@@ -31898,7 +31898,7 @@
       </box>
     </image>
     <image file="089_04.jpg">
-      <box height="291" left="369" top="866" width="293">
+      <box height="293" left="866" top="369" width="291">
         <part name="0" x="885" y="428"/>
         <part name="1" x="879" y="457"/>
         <part name="2" x="878" y="489"/>
@@ -31970,7 +31970,7 @@
       </box>
     </image>
     <image file="089_05.jpg">
-      <box height="288" left="553" top="1113" width="304">
+      <box height="304" left="1113" top="553" width="288">
         <part name="0" x="1094" y="636"/>
         <part name="1" x="1095" y="676"/>
         <part name="2" x="1099" y="716"/>
@@ -32042,7 +32042,7 @@
       </box>
     </image>
     <image file="090_01.jpg">
-      <box height="356" left="507" top="1062" width="337">
+      <box height="337" left="1062" top="507" width="356">
         <part name="0" x="1068" y="574"/>
         <part name="1" x="1074" y="624"/>
         <part name="2" x="1083" y="675"/>
@@ -32114,7 +32114,7 @@
       </box>
     </image>
     <image file="090_02.jpg">
-      <box height="448" left="565" top="866" width="477">
+      <box height="477" left="866" top="565" width="448">
         <part name="0" x="879" y="715"/>
         <part name="1" x="896" y="779"/>
         <part name="2" x="919" y="840"/>
@@ -32186,7 +32186,7 @@
       </box>
     </image>
     <image file="090_03.jpg">
-      <box height="386" left="617" top="1278" width="368">
+      <box height="368" left="1278" top="617" width="386">
         <part name="0" x="1270" y="668"/>
         <part name="1" x="1276" y="726"/>
         <part name="2" x="1286" y="784"/>
@@ -32258,7 +32258,7 @@
       </box>
     </image>
     <image file="090_04.jpg">
-      <box height="448" left="386" top="1130" width="470">
+      <box height="470" left="1130" top="386" width="448">
         <part name="0" x="1146" y="445"/>
         <part name="1" x="1138" y="510"/>
         <part name="2" x="1136" y="577"/>
@@ -32330,7 +32330,7 @@
       </box>
     </image>
     <image file="090_05.jpg">
-      <box height="288" left="489" top="969" width="320">
+      <box height="320" left="969" top="489" width="288">
         <part name="0" x="966" y="567"/>
         <part name="1" x="971" y="610"/>
         <part name="2" x="979" y="653"/>
