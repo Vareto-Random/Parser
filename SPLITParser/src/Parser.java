@@ -18,10 +18,10 @@ public class Parser {
 				Document docR = builder.parse(file);
 				
 				Document docLeft = Splitting.SplittingLeft(path, docL);
-				Splitting.saveXML(docLeft, "testing_with_face_landmarks_LEFT.xml");	
+				Splitting.saveXML(docLeft, fileName + "_LEFT.xml");	
 				
 				Document docRight = Splitting.SplittingRight(path, docR);
-				Splitting.saveXML(docRight, "testing_with_face_landmarks_RIGHT.xml");			
+				Splitting.saveXML(docRight, fileName + "_RIGHT.xml");			
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
